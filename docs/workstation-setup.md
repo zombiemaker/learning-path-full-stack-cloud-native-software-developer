@@ -1,5 +1,11 @@
 # Workstation Setup
 
+## Computer Hardware
+
+- CPU: 8+ CPU cores
+- RAM: 32+ GB
+- Boot drive:  1+ TB SSD (NVMe preferred)
+
 ## Software Components
 
 - Microsoft Windows 10 Professional 1903+
@@ -29,3 +35,7 @@
   - wget
   - unzip
   - tmux SSH terminal
+
+## Network Connectivity
+
+- Internet connection bandwidth: 100 Mbps
