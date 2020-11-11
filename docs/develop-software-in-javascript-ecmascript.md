@@ -37,8 +37,8 @@
   * [Mozilla SpiderMonkey Engine](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey)
   * [Microsoft Chakra Engine](https://github.com/microsoft/ChakraCore )
   * [Apple JavaScriptCore](https://developer.apple.com/documentation/javascriptcore)
-  * [JerryScript](https://jerryscript.net/)
-  * [GraalVM JavaScript](https://github.com/graalvm/graaljs)
+  * [JerryScript Engine](https://jerryscript.net/)
+  * [GraalVM JavaScript Engine](https://github.com/graalvm/graaljs)
   * [Comparison Of JavaScript Engine](https://en.wikipedia.org/wiki/Comparison_of_JavaScript_engines)
   * [ECMAScript Feature Support](https://kangax.github.io/compat-table/es6/)
 * JavaScript Runtime Platforms
