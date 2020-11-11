@@ -1,4 +1,4 @@
-# Learning Path: Full-Stack Cloud-Native Software Developer
+# Learning Path Overview
 
 ## Goals
 
