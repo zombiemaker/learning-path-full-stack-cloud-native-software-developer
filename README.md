@@ -1,5 +1,50 @@
 # Learning Path: Full-Stack Cloud-Native Software Developer
 
+## Goals
+
+The goal of this learning path is to provide an optimized path for learning to become a:
+
+- holistic
+- cloud-native
+- software developer and
+- digital business application system designer-builder-operator
+- who can operate within a
+  - multi-member
+  - geographically distributed
+  - digital business capability
+  - development and delivery team
+- to deliver software that can run on
+  - server computer systems
+  - web browsers
+  - mobile devices
+  - IoT devices
+  - Kubernetes
+  - public cloud infrastructure (e.g., AWS, Google Cloud, Azure, Digital Ocean, etc.)
+
+## How To Use This Document
+
+This document is NOT a tutorial.
+
+It is an outline and sequence of topics that a person who want to become a proficient designer-builder-operator of cloud native digital business application systems.
+
+For each topic, there is a collection of links to educational content that the learner can consume to gain knowledge and skills about that topic.
+
+THERE IS A BROAD AND DEEP RANGE OF SUBJECTS that is covered.  We recommend that the learner goes through the whole sequence at the basic level of each topic first.  The will give the learner the bigger picture of how the topics related to one another.  Afterwards, the learner can dive deeper into more advanced areas of each topic.
+
+Resource links are also provided for further exploration and awareness.
+
+## Prerequisite Knowledge & Skills
+
+- Proficiency in using Microsoft Windows 10
+- Ability to search the internet for quality information to figure out how to best do something
+
+## Philosophy
+
+- “All teams will henceforth expose their data and functionality through service interfaces.  There will be no other form of interprocess communication allowed:  no direct linking, no direct reads of another team’s data store, no shared-memory model, no back-doors whatsoever.  The only communication allowed is via service interface calls over the network.  Anyone who doesn’t do this will be fired.”  (Jeff Bezos, CEO of Amazon)
+
+
+## Learning Path
+
 - [Setup Workstation](docs/setup-workstation.md)
 - [Setup Accounts At Cloud Services](docs/setup-accounts-at-cloud-services.md)
 - [Tools For Developing Software In JavaScript](docs/tools-for-developing-software-in-javascript.md)
@@ -8,6 +53,7 @@
 - [Develop Linux Shell Scripts](docs/develop-linux-shell-scripts.md)
 - [Network Computers](docs/network-computers.md)
 - [Communicate Between Computers With TCP/IP](docs/communicate-between-computers-with-tcip.md)
+- [Automate Computer Network Configuration With DHCP](docs/automate-computer-network-configuration-with-dhcp.md)
 - [Resolve Network Names & Addresses With DNS](docs/resolve-network-names-and-addresses-with-dns.md)
 - [Communicate Between Distributed Applications With HTTP](docs/communicate-between-distributed-applications-with-http.md)
 - [Secure Distributed Application-to-Application Communications With TLS](docs/secure-distributed-application-to-application-communications-with-tls.md)
