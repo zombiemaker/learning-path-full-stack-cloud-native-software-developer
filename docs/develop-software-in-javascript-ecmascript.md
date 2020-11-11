@@ -56,14 +56,6 @@
 
 ## Different JavaScript Execution Environments
 
-### JavaScript / ECMAScript Runtime Engines / Virtual Machines
-
-* Google V8
-* Mozilla SpiderMonkey
-* Microsoft Chakra
-* Apple JavaScriptCore
-* JerryScript
-
 ### Web Browser Context
 
 * Processes response objects
@@ -76,9 +68,9 @@
   * JSON
   * global (refers to window object)
 * JavaScript module systems
-  * ECMAScript Modules
+  * ECMAScript Module
 * JavaScript package manager systems
-
+  * None
 
 ### Node.js Context
 
@@ -94,7 +86,7 @@
   * global
 * JavaScript module systems
   * CommonJS
-  * ECMAScript Modules
+  * ECMAScript Module
 * JavaScript package manager systems
   * npm
   * Yarn

@@ -1,0 +1,69 @@
+# Develop Software To Run In Node.js
+
+## Basics
+
+* General
+  * [The V8 Engine and Node.js](https://youtu.be/PsDqH_RKvyc)
+* Node.js 14
+  * [Node.js Web Development - Fifth Edition (David Herron)](https://learning.oreilly.com/library/view/nodejs-web-development/9781838987572/)
+  * [Node.js Design Patterns - Third Edition (Mario Casciaro, Luciano Mammino)](https://learning.oreilly.com/library/view/nodejs-design-patterns/9781839214110/)
+  * [Distributed Systems With Node.js (Thomas Hunter)](https://learning.oreilly.com/library/view/distributed-systems-with/9781492077282/)
+  * [Your First Week WIth Node.js, 2nd Edition (James Hibbard, etc.)](https://learning.oreilly.com/library/view/your-first-week/9781098122805/)
+  * [Node.js: Tools & Skills, 2nd Edition (James Hibbard, etc.)](https://learning.oreilly.com/library/view/nodejs-tools/9781098122836/)
+* Node.js 12
+  * [RESTful Web API Design With Node.js 12 (Florian Goto)](https://learning.oreilly.com/videos/restful-web-api/9781838648770/)
+* Node.js 10
+  * [Node.js Absolute Beginners Guide - Learn Node from Scratch (John Elder)](https://learning.oreilly.com/videos/node-js-absolute-beginners/9781838987961)
+* Node.js 8
+  * [Node.js in Motion (PJ Evans)](https://learning.oreilly.com/videos/node-js-in-motion/10000MNLV201720/)
+  * [The Complete Node.js Developer Course (3rd Edition) (Andrew Mead, Rob Percival) ](https://learning.oreilly.com/videos/the-complete-node-js/9781789955071)
+  * [Node.js - The Complete Guide (Maximilian Schwarzmuller)](https://learning.oreilly.com/videos/node-js-the/9781838826864)
+
+## Advanced
+  * [Modern Web Development (Dimitris Loukas)](https://learning.oreilly.com/videos/javascript-essentials-for/9781838982676)
+
+## Resources
+
+* [Node.js](https://nodejs.org/)
+  * [Node.js 14 API Documentation](https://nodejs.org/dist/latest-v14.x/docs/api/)
+* [Node.js YouTube Channel](https://www.youtube.com/channel/UCQPYJluYC_sn_Qz_XE-YbTQ)
+  * [How People Are Using Node.js](https://www.youtube.com/playlist?list=PLfMzBWSH11xYieEIRBxmG4NGJKsv8MLMb)
+  * [Node + JS Interactive 2019](https://www.youtube.com/playlist?list=PLfMzBWSH11xZPfWcC0DqFqKo_reMP58mw)
+  * [Node + JS Interactive 2018](https://www.youtube.com/playlist?list=PLfMzBWSH11xaZvhv1X5Fq1H-oMdnAtG6k)
+  * [Node + JS Interactive 2017](https://www.youtube.com/playlist?list=PLfMzBWSH11xa-iNnQG2555lgi4574nZOh)
+  * [Node Interactive North America 2016](https://www.youtube.com/playlist?list=PLfMzBWSH11xYaaHMalNKqcEurBH8LstB8)
+  * [Node Interactive Europe 2016](https://www.youtube.com/playlist?list=PLfMzBWSH11xZKfC2b-XWJRMtl9y-jtQBN)
+  * [Node Interactive 2015](https://www.youtube.com/playlist?list=PLfMzBWSH11xYjL8oFumSfzOf6-kr8_t-o)
+  * [NodeBots at Scale](https://www.youtube.com/watch?v=CGGGklIfigc)
+  * [The Node.js Event Loop: Not So Single Threaded](https://youtu.be/zphcsoSJMvM)
+* [Node.js ECMAScript Version Support](https://node.green/)
+* Node.js = V8 + libuv + glue code + npm Node.js package ecosystem
+  * [Google JavaScript V8 Engine](https://v8.dev/)
+  * libuv
+    * [libuv GitHub](https://github.com/libuv/libuv)
+    * [libuv Documentation](http://docs.libuv.org/en/v1.x/)
+* Node.js packages
+  * [Vue.js](https://vuejs.org/)
+  * [Koa](https://koajs.com/)
+  * [Express](https://www.datree.io/resources/node-js-frameworks-packages)
+  * [Axios](https://github.com/axios/axios)
+  * [Bunyan](https://github.com/trentm/node-bunyan)
+  * [Sequelize](https://sequelize.org/)
+  * [Knex](http://knexjs.org/)
+  * [RxJS](https://github.com/ReactiveX/rxjs)
+  * [Faker](https://github.com/marak/faker.js/)
+  * [Async.js](https://caolan.github.io/async/v3/)
+  * [Webpack](https://webpack.js.org/)
+  * [pm2](https://pm2.keymetrics.io/)
+  * [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken)
+  * [Helmet](github.com/helmetjs/helmet)
+  * [Cors](github.com/expressjs/cors)
+  * [Morgan](github.com/expressjs/morgan)
+  * [@hapi/joi](github.com/hapijs/joi)
+  * [Mongoose](mongoosejs.com)
+  * [Express-gateway](www.express-gateway.io)
+
+## Specialized Applications Of Node.js
+
+* [NodeBots: JavaScript Robots With Arduino]()
+* [NodeBots](https://nodebots.io/)
