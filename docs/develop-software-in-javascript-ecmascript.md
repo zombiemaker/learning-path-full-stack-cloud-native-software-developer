@@ -32,12 +32,13 @@
   * [ECMAScript 9 / ECMAScript 2018 Language Specification](https://ecma-international.org/ecma-262/9.0/)
   * [ECMAScript 10 / ECMAScript 2019 Language Specification](https://www.ecma-international.org/ecma-262/10.0/)
   * [ECMAScript 2020 Language Specification](https://www.ecma-international.org/ecma-262/)
-* JavaScript Runtime Execution Engines
+* JavaScript Runtime Execution Engines / Virtual Machines
   * [Google JavaScript V8 Engine](https://v8.dev/)
   * [Mozilla SpiderMonkey Engine](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey)
   * [Microsoft Chakra Engine](https://github.com/microsoft/ChakraCore )
   * [Apple JavaScriptCore](https://developer.apple.com/documentation/javascriptcore)
   * [JerryScript](https://jerryscript.net/)
+  * [GraalVM JavaScript](https://github.com/graalvm/graaljs)
   * [Comparison Of JavaScript Engine](https://en.wikipedia.org/wiki/Comparison_of_JavaScript_engines)
   * [ECMAScript Feature Support](https://kangax.github.io/compat-table/es6/)
 * JavaScript Runtime Platforms
@@ -47,6 +48,7 @@
   * [Moziller Firefox (SpiderMonkey)](https://www.mozilla.org/en-US/firefox/)
   * [Microsoft Edge (Chakra)](https://www.microsoft.com/en-us/edge)
   * [Apple Safari (JavaScriptCore)](https://www.apple.com/safari/)
+  * [Oracle GraalVM](https://www.graalvm.org/)
 * JavaScript Organizations
   * [OpenJS Foundation](https://openjsf.org/)
 
@@ -54,13 +56,13 @@
 
 ## Different JavaScript Execution Environments
 
-### JavaScript / ECMAScript Runtime Engines
+### JavaScript / ECMAScript Runtime Engines / Virtual Machines
 
 * Google V8
 * Mozilla SpiderMonkey
 * Microsoft Chakra
 * Apple JavaScriptCore
-  * https://developer.apple.com/documentation/javascriptcore
+* JerryScript
 
 ### Web Browser Context
 
