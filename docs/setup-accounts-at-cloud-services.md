@@ -8,3 +8,4 @@ Setup a user account at the following cloud services:
   * [AWS](https://aws.amazon.com)
   * [Azure](https://portal.azure.com)
   * [Google Cloud Platform](https://cloud.google.com/)
+  * [Digital Ocean](https://www.digitalocean.com/)
