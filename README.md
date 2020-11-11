@@ -29,7 +29,7 @@ It is an outline and sequence of topics that a person who want to become a profi
 
 For each topic, there is a collection of links to educational content that the learner can consume to gain knowledge and skills about that topic.
 
-THERE IS A BROAD AND DEEP RANGE OF SUBJECTS that is covered.  We recommend that the learner goes through the whole sequence at the basic level of each topic first.  The will give the learner the bigger picture of how the topics related to one another.  Afterwards, the learner can dive deeper into more advanced areas of each topic.
+THERE IS A BROAD AND DEEP RANGE OF SUBJECTS that is covered.  We recommend that the learner go through the whole sequence at the basic level of each topic first.  The will give the learner the bigger picture of how the topics related to one another.  Afterwards, the learner can dive deeper into more advanced areas of each topic.
 
 Resource links are also provided for further exploration and awareness.
 
