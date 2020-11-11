@@ -25,7 +25,7 @@ The goal of this learning path is to provide an optimized path for learning to b
 
 This document is NOT a tutorial.
 
-It is an outline and sequence of topics that a person who want to become a proficient designer-builder-operator of cloud native digital business application systems.
+It is an outline and sequence of topics that a person who wants to become a proficient designer-builder-operator of cloud native digital business application systems.  It is intended to give a path for self-motivated learners to gain an understanding of the space.
 
 For each topic, there is a collection of links to educational content that the learner can consume to gain knowledge and skills about that topic.
 
@@ -33,15 +33,19 @@ THERE IS A BROAD AND DEEP RANGE OF SUBJECTS that is covered.  We recommend that 
 
 Resource links are also provided for further exploration and awareness.
 
-## Prerequisite Knowledge & Skills
+The learner is expected and encouraged to explore subjects and find other information resources and tools to expand and fill there knowledge, skills, and capabilities. 
 
-- Proficiency in using Microsoft Windows 10
+## Prerequisite Knowledge, Skills, & Behavior
+
+- Self-motivate learner
+- Curiosity to explore subjects
 - Ability to search the internet for quality information to figure out how to best do something
+- Ability to integrate information into a system for doing things
+- Proficiency in using Microsoft Windows 10
 
 ## Philosophy
 
 - “All teams will henceforth expose their data and functionality through service interfaces.  There will be no other form of interprocess communication allowed:  no direct linking, no direct reads of another team’s data store, no shared-memory model, no back-doors whatsoever.  The only communication allowed is via service interface calls over the network.  Anyone who doesn’t do this will be fired.”  (Jeff Bezos, CEO of Amazon)
-
 
 ## Learning Path
 
