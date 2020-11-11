@@ -45,7 +45,11 @@ The learner is expected and encouraged to explore subjects and find other inform
 
 ## Philosophy
 
-- “All teams will henceforth expose their data and functionality through service interfaces.  There will be no other form of interprocess communication allowed:  no direct linking, no direct reads of another team’s data store, no shared-memory model, no back-doors whatsoever.  The only communication allowed is via service interface calls over the network.  Anyone who doesn’t do this will be fired.”  (Jeff Bezos, CEO of Amazon)
+> “All teams will henceforth expose their data and functionality through service interfaces.  There will be no other form of interprocess communication allowed:  no direct linking, no direct reads of another team’s data store, no shared-memory model, no back-doors whatsoever.  The only communication allowed is via service interface calls over the network.  Anyone who doesn’t do this will be fired.”  (Jeff Bezos, CEO of Amazon)
+
+The above quote from Jeff Bezos expresses the changes in application system design characteristics that are required to build scalable and responsive systems that satisfies today's (2020) user expectations while enabling hundreds / thousands of individual teams to quickly improve digital services with lowered costs and higher quality.  Such changes require seasoned IT professionals to break old paradigms and embrace and develop new ones.  Sometimes people need the threat of losing their income before they are willing to change themselves as seems to be the case at Amazon years ago.
+
+The philosophy behind this learning path is that the learner welcomes the opporunity to transform him/herself and takes the initiative to discover and pave new paths for him/herself and his/her teams.  It is not for the feint of heart.  If you need to be spoon-fed, this learning path may not be for you.  However, if you are willing engage yourself in this journey to work through the challenging content and integrate the many different pieces in your mind, I believe that you will become a very capable person in transforming society in a digitized economy.
 
 ## Learning Path
 

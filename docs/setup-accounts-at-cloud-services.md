@@ -2,6 +2,7 @@
 
 Setup a user account at the following cloud services:
 
+* [O'Reilly Learning Online](https://oreilly.com)
 * [GitHub](https://github.com)
 * (optional) [GitLab](https://gitlab.com)
 * One or more public cloud infrastructure service provider
