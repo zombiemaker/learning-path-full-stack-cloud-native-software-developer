@@ -13,10 +13,14 @@
 ## Resources
 
 * [Oracle VirtualBox](https://www.virtualbox.org/)
-* [Ubuntu ISO](https://ubuntu.com/download)
 * [CentOS ISO](https://www.centos.org/download/)
+* [Ubuntu ISO](https://ubuntu.com/download)
 * [Alpine Linux ISO](https://alpinelinux.org/downloads/)
 
 ## Note:
 
 As of 11/2020, VirtualBox cannot run on the same machine that uses WSL2.  WSL2 requires the Windows feature “Virtual Machine Platform”, which is not compatible with VirtualBox.
+
+## Recommendations
+
+* Practice creating VMs that use CentOS server, Ubuntu server, and Alpine Linux.
