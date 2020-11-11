@@ -19,3 +19,8 @@
 * [Bourne Again Shell (bash)]()
 * [Fish Shell](https://fishshell.com/)
 * [Powershell Core 7 for Linux](https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell-core-on-linux?view=powershell-7)
+
+## Recommendations
+
+* Be aware of sh shell because it is used in many situations in Linux even though it is has less features and the syntax is not as great as bash.  For example, sh is used in Docker to build Docker images from Dockerfiles.
+* Learn bash shell because it is the dominant shell in the Linux community
