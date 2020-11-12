@@ -42,10 +42,13 @@
   * libuv
     * [libuv GitHub](https://github.com/libuv/libuv)
     * [libuv Documentation](http://docs.libuv.org/en/v1.x/)
-* Node.js packages
+  * [Node.js GitHub repositories](https://github.com/nodejs)
+  * [npm package ecosystem](https://www.npmjs.com/)
+* Some notable Node.js npm packages
+  * [Express](https://www.datree.io/resources/node-js-frameworks-packages)
+  * [Webpack](https://webpack.js.org/)
   * [Vue.js](https://vuejs.org/)
   * [Koa](https://koajs.com/)
-  * [Express](https://www.datree.io/resources/node-js-frameworks-packages)
   * [Axios](https://github.com/axios/axios)
   * [Bunyan](https://github.com/trentm/node-bunyan)
   * [Sequelize](https://sequelize.org/)
@@ -53,7 +56,6 @@
   * [RxJS](https://github.com/ReactiveX/rxjs)
   * [Faker](https://github.com/marak/faker.js/)
   * [Async.js](https://caolan.github.io/async/v3/)
-  * [Webpack](https://webpack.js.org/)
   * [pm2](https://pm2.keymetrics.io/)
   * [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken)
   * [Helmet](github.com/helmetjs/helmet)
