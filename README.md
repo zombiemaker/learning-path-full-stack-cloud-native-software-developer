@@ -76,6 +76,7 @@ The philosophy behind this learning path is that the learner welcomes the opporu
 - [Develop Software To Run In Deno](docs/develop-software-to-run-in-deno.md)
 - [Develop Software To Run In GraalVM](docs/develop-software-to-run-in-graalvm.md)
 - [Develop Software To Run In Web Browsers](docs/develop-software-to-run-in-web-browsers.md)
+- [Develop Software To Run In Google Apps Script](docs/develop-software-to-run-in-google-apps-script.md)
 - [Develop Software To Run In Apache Cordova](docs/develop-software-to-run-in-apache-cordova.md)
 - [Develop Software To Run In JerryScript On Zephyr OS](docs/develop-software-to-run-in-jerryscript-on-zephyr-os.md)
 - [Develop Software To Run On Kubernetes](docs/develop-software-to-run-on-kubernetes.md)
