@@ -15,7 +15,7 @@
 * [Docker For The Absolute Beginner (Mumshad Mannambeth)](https://learning.oreilly.com/videos/docker-for-the/9781788991315)
 * [Docker, Dockerfile, and Docker-Compose (2020 Ready!) (Thomas Wiesner)](https://learning.oreilly.com/videos/docker-dockerfile-and/9781800206847)
 
-# Resources
+## Resources
 
 * [Docker Desktop for Windows](https://hub.docker.com/editions/community/docker-ce-desktop-windows)
 * [Docker Engine CE for Linux](https://docs.docker.com/engine/)
