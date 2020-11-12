@@ -84,6 +84,7 @@ The philosophy behind this learning path is that the learner welcomes the opporu
 - [Develop Software To Run On AWS Lambda Service](docs/develop-software-to-run-on-aws-lambda-service.md)
 - [Develop Software To Run On Azure Functions Service](docs/develop-software-to-run-on-azure-functions-service.md)
 - [Develop Software To Run On Google Cloud Functions Service](docs/develop-software-to-run-on-google-cloud-functions-service.md)
+- [Develop Software To Run On Knative](docs/develop-software-to-run-on-knative.md)
 - [Develop Software To Run Anywhere Using WebAssembly](docs/develop-software-to-run-anywhere-using-webassembly.md)
 - [Test JavaScript Software](docs/test-javascript-software.md)
 - [Document Software](docs/document-software.md)
