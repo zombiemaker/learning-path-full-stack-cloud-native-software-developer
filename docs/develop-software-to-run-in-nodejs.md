@@ -69,3 +69,4 @@
 
 * [NodeBots: JavaScript Robots With Arduino]()
 * [NodeBots](https://nodebots.io/)
+* [When Porgs Scream At Webpack And Other Stores (Dominik Kundel)](https://youtu.be/YzSQh9djW04?list=PLfMzBWSH11xZPfWcC0DqFqKo_reMP58mw)

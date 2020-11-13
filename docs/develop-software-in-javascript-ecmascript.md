@@ -51,8 +51,27 @@
   * [Oracle GraalVM](https://www.graalvm.org/)
 * JavaScript Organizations
   * [OpenJS Foundation](https://openjsf.org/)
-
-
+* [JFConf YouTube Channel](https://www.youtube.com/c/JSConfEU/featured)
+  * [JFConf HI 2020](https://www.youtube.com/playlist?list=PL37ZVnwpeshH-mmcnUNoM7LVyegK27Gm1)
+  * [JSConf Korea 2020](https://www.youtube.com/playlist?list=PL37ZVnwpeshHlUonQ2pnYFd8SAiicjmlm)
+  * [JSConf Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshEMCvdYDdZ09Sy-toTftWu0)
+  * [JSConf Korea 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshGanWnYhTdoFLM2IDF28MaQ)
+  * [JSConf US 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshEGvbeADo0HKaaTCsC7fk1x)
+  * [JSConf Asia 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshEHcw37PA29vZCJRoIER9r3)
+  * [JSConf HI 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFfpar-NpSYzNQ9Yz-WO-qh)
+  * [JSConf EU 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshHwJPVBqEnZild7QHWhdufu)
+  * [CSSConf Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshEMCvdYDdZ09Sy-toTftWu0)
+  * [CSSConf EU 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshERVKLkJdt5lpjJ1xqEJc17)
+  * [JSConf US 2018](https://www.youtube.com/playlist?list=PL37ZVnwpeshGGVeMxXxCxjQZBJq5bqM7b)
+  * [JSConf EU 2018](https://www.youtube.com/playlist?list=PL37ZVnwpeshG2YXJkun_lyNTtM-Qb3MKa)
+  * [JSConf AU 2018](https://www.youtube.com/playlist?list=PLZriQCloF6GDuXF8RRPd1mIl9W2QXF-sQ)
+  * [JSConf Iceland 2018](https://www.youtube.com/playlist?list=PL37ZVnwpeshEO7qXEbjG4riQD7SzydLEO)
+  * [JSConf Asia 2018](https://www.youtube.com/playlist?list=PL37ZVnwpeshFqN5dcZ704lxI3F5iHDYkl)
+  * [CSSConf EU 2018](https://www.youtube.com/playlist?list=PL37ZVnwpeshHJSJf46Rk4B8amvm7Ecu58)
+  * [JSConf EU 2017](https://www.youtube.com/playlist?list=PL37ZVnwpeshFmAPr65sU2O5WMs7_CGjs_)
+  * [JSConf Budapest 2017](https://www.youtube.com/playlist?list=PL37ZVnwpeshH9ztZfHqvQhF1_Zm4VcCTD)
+  * [CSSConf EU 2017](https://www.youtube.com/playlist?list=PL37ZVnwpeshF0XmpjKBJ3-0kvr3b5ZpJR)
+  * [JSUnconf 2017](https://www.youtube.com/playlist?list=PL37ZVnwpeshGfcG3idK0sFCH62U7mLYXg)
 
 ## Different JavaScript Execution Environments
 
