@@ -22,6 +22,7 @@
 * JavaScript package manager systems
   * [Node Package Manager (npm)](https://www.npmjs.com/)
   * [Yarn](https://yarnpkg.com/)
+* [The "Perfect" Tooling Library - Ben Ilegbodu | JSCOnf Hawaii 2020](https://www.youtube.com/watch?v=kQ4r9OATmB0&list=PL37ZVnwpeshH-mmcnUNoM7LVyegK27Gm1&index=5)
 
 ## Resources
 

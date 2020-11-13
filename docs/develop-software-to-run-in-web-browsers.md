@@ -27,14 +27,17 @@
 
 ## Advanced
 
-* [Hacking Angular JS Applications (Dawid Czagan)](https://learning.oreilly.com/videos/hacking-angularjs-applications/9781838988340/)
+* [Hacking Angular JS Applications (Dawid Czagan)](https://learning.oreilly.com/videos/hacking-angularjs-applications/9781838988340/)*
 
 ## Resources
 
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular.js]https://angularjs.org/)
-* [Material-UI](https://material-ui.com/)
-* [Materialize](https://materializecss.com/)
-* [Bootstrap](https://getbootstrap.com)
-* [jQuery](https://jquery.com/)
+* User Interface Frameworks / Libraries
+  * [React.js](https://reactjs.org/)
+  * [Vue.js](https://vuejs.org/)
+  * [Angular.js]https://angularjs.org/)
+  * [Material-UI](https://material-ui.com/)
+  * [Materialize](https://materializecss.com/)
+  * [Bootstrap](https://getbootstrap.com)
+  * [jQuery](https://jquery.com/)
+* Misc
+  * [React, Vue, and Svelte as Teen Movie Archetypes - Leta Keane | JSConf Hawaii 2020](https://youtu.be/vEQkgBzunRc?list=PL37ZVnwpeshH-mmcnUNoM7LVyegK27Gm1)
