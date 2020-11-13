@@ -45,7 +45,7 @@
   * [Node.js (V8)](https://nodejs.org)
   * [Deno JavaScript Runtime (V8)](https://deno.land/)
   * [Google Chrome (V8)](https://www.google.com/chrome/)
-  * [Moziller Firefox (SpiderMonkey)](https://www.mozilla.org/en-US/firefox/)
+  * [Mozilla Firefox (SpiderMonkey)](https://www.mozilla.org/en-US/firefox/)
   * [Microsoft Edge (Chakra)](https://www.microsoft.com/en-us/edge)
   * [Apple Safari (JavaScriptCore)](https://www.apple.com/safari/)
   * [Oracle GraalVM](https://www.graalvm.org/)
