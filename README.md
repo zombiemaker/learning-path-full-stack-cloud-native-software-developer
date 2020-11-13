@@ -136,6 +136,7 @@ The philosophy behind this learning path is that the learner welcomes the opporu
 - [Develop Application Systems To Run On Kubernetes](docs/develop-application-systems-to-run-on-kubernetes.md)
 - [Package Kubernetes-Based Application System Software Using Helm](docs/package-kubernetes-based-application-system-software-using-helm.md)
 - [Deploy Kubernetes-Based Application System Software Using Helm](docs/deploy-kubernetes-based-application-system-software-using-helm.md)
+- [Trace End-to-End Interactions Of Distributed Software Components](docs/trace-end-to-end-interactions-of-distributed-software-components.md)
 - [Provision Software-Defined Resources](docs/provision-software-defined-resources.md)
 - [Automate Provisioning Of Software-Defined Resources With Terraform](docs/automate-provisioning-of-software-defined-resources-with-terraform.md)
 - [Provision Test Environment On-Demand](docs/provision-test-environment-on-demand.md)
