@@ -1,8 +1,10 @@
 # Test JavaScript Software
 
 ## Basics
+
 * [The Complete JavaScript Unit Testing Guide (O'Reilly Video)
 * [TDCD: Test Driven Component Development - Tim Doherty - JSConf US 2019](https://youtu.be/SDoq37lXHEw?list=PL37ZVnwpeshEGvbeADo0HKaaTCsC7fk1x)
+
 ## Resources
 
 * JavaScript Testing Frameworks
@@ -22,3 +24,5 @@
 * JavaScript Testing Libraries
   * [Should.js](https://shouldjs.github.io/)
   * [Chai.js](https://www.chaijs.com/)
+* Seminars
+  * [Componentizing End-to-End Tests - Nicholas Boll - JSConf US 2019](https://youtu.be/Pv2YHXQOEJY?list=PL37ZVnwpeshEGvbeADo0HKaaTCsC7fk1x)
