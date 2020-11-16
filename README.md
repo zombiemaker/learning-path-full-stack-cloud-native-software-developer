@@ -85,6 +85,7 @@ The philosophy behind this learning path is that the learner welcomes the opporu
 - [Develop Software To Run On Azure Functions Service](docs/develop-software-to-run-on-azure-functions-service.md)
 - [Develop Software To Run On Google Cloud Functions Service](docs/develop-software-to-run-on-google-cloud-functions-service.md)
 - [Develop Software To Run On Knative](docs/develop-software-to-run-on-knative.md)
+- [Develop Software To Run On Edge Computing Platforms](docs/develop-software-to-run-on-edge-computing-platoforms.md)
 - [Develop Software To Run Anywhere Using WebAssembly](docs/develop-software-to-run-anywhere-using-webassembly.md)
 - [Test JavaScript Software](docs/test-javascript-software.md)
 - [Document Software](docs/document-software.md)
@@ -155,3 +156,5 @@ The philosophy behind this learning path is that the learner welcomes the opporu
 - [Distribute Files Using Interplanetary File System](docs/distribute-files-using-interplanetary-file-system.md)
 - [Distribute Static Content Using Content Delivery Networks](docs/distribute-static-content-using-content-delivery-networks.md)
 - [Integrate Digitized Information Into A Knowledge Graph](docs/integrate-digitized-information-into-a-knowledge-graph.md)
+- [Develop Software For IoT](docs/develop-software-for-iot.md)
+- [Develop Software For Machine Learning](docs/develop-software-for-machine-learning.md)

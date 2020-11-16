@@ -34,6 +34,10 @@
   * [ECMAScript 9 / ECMAScript 2018 Language Specification](https://ecma-international.org/ecma-262/9.0/)
   * [ECMAScript 10 / ECMAScript 2019 Language Specification](https://www.ecma-international.org/ecma-262/10.0/)
   * [ECMAScript 2020 Language Specification](https://www.ecma-international.org/ecma-262/)
+* [State Of JavaScript](https://stateofjs.com/)
+  * [State Of JavaScript In 2019](https://2019.stateofjs.com/)
+  * [State Of JavaScript In 2018](https://2018.stateofjs.com/)
+  * [State Of JavaScript In 2017](https://2017.stateofjs.com/)
 * JavaScript Runtime Execution Engines / Virtual Machines
   * [Google JavaScript V8 Engine](https://v8.dev/)
   * [Mozilla SpiderMonkey Engine](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey)
@@ -75,6 +79,12 @@
   * [CSSConf EU 2017](https://www.youtube.com/playlist?list=PL37ZVnwpeshF0XmpjKBJ3-0kvr3b5ZpJR)
   * [JSUnconf 2017](https://www.youtube.com/playlist?list=PL37ZVnwpeshGfcG3idK0sFCH62U7mLYXg)
 * [JavaScript: Who, What, Where, Why and Next | Laurie Voss | JSConf EU 2019](https://youtu.be/gChULw-uEjY?list=PL37ZVnwpeshHwJPVBqEnZild7QHWhdufu)
+* JavaScript Flavors
+  * [TypeScript](https://www.stackpath.com/why-stackpath/edgeengine/)
+  * [Reason](https://reasonml.github.io/)
+  * [Elm](https://elm-lang.org/)
+  * [PureScript](https://www.purescript.org/)
+  * [ClojureScript](https://clojurescript.org/)
 
 ## Different JavaScript Execution Environments
 
