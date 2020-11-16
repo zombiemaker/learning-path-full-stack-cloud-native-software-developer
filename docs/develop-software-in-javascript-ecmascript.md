@@ -23,6 +23,7 @@
   * [Node Package Manager (npm)](https://www.npmjs.com/)
   * [Yarn](https://yarnpkg.com/)
 * [The "Perfect" Tooling Library - Ben Ilegbodu | JSCOnf Hawaii 2020](https://www.youtube.com/watch?v=kQ4r9OATmB0&list=PL37ZVnwpeshH-mmcnUNoM7LVyegK27Gm1&index=5)
+* [A Sneak Peek Into Super Optimized Code In JS Frameworks | Maxim Koretskyi | JSCOnf EU 2019](https://youtu.be/_VHNTC67NR8?list=PL37ZVnwpeshHwJPVBqEnZild7QHWhdufu)
 
 ## Resources
 
@@ -73,6 +74,7 @@
   * [JSConf Budapest 2017](https://www.youtube.com/playlist?list=PL37ZVnwpeshH9ztZfHqvQhF1_Zm4VcCTD)
   * [CSSConf EU 2017](https://www.youtube.com/playlist?list=PL37ZVnwpeshF0XmpjKBJ3-0kvr3b5ZpJR)
   * [JSUnconf 2017](https://www.youtube.com/playlist?list=PL37ZVnwpeshGfcG3idK0sFCH62U7mLYXg)
+* [JavaScript: Who, What, Where, Why and Next | Laurie Voss | JSConf EU 2019](https://youtu.be/gChULw-uEjY?list=PL37ZVnwpeshHwJPVBqEnZild7QHWhdufu)
 
 ## Different JavaScript Execution Environments
 
