@@ -29,7 +29,7 @@ It is an outline and sequence of topics that a person who wants to become a prof
 
 For each topic, there is a collection of links to educational content that the learner can consume to gain knowledge and skills about that topic.
 
-THERE IS A BROAD AND DEEP RANGE OF SUBJECTS that is covered.  We recommend that the learner go through the whole sequence at the basic level of each topic first.  The will give the learner the bigger picture of how the topics related to one another.  Afterwards, the learner can dive deeper into more advanced areas of each topic.
+THERE IS A BROAD AND DEEP RANGE OF SUBJECTS that is covered.  We recommend that the learner go through the whole sequence at the basic level of each topic first.  This will give the learner the bigger picture of how the topics related to one another.  Afterwards, the learner can dive deeper into more advanced areas of each topic.
 
 Resource links are also provided for further exploration and awareness.
 
@@ -137,7 +137,8 @@ The philosophy behind this learning path is that the learner welcomes the opporu
 - [Deploy Kubernetes-Based Application System Software Using Helm](docs/deploy-kubernetes-based-application-system-software-using-helm.md)
 - [Trace End-to-End Interactions Of Distributed Software Components](docs/trace-end-to-end-interactions-of-distributed-software-components.md)
 - [Provision Software-Defined Resources](docs/provision-software-defined-resources.md)
-- [Automate Provisioning Of Software-Defined Resources With Terraform](docs/automate-provisioning-of-software-defined-resources-with-terraform.md)
+- [Automate Provisioning Of Software-Defined Resources With Terraform](docs/
+automate-provisioning-of-software-defined-resources-with-terraform.md)
 - [Provision Test Environment On-Demand](docs/provision-test-environment-on-demand.md)
 - [Provision Production Environment Resources On-Demand](docs/provision-production-environment-resources-on-demand.md)
 - [Deploy Software Changes Continuously](docs/deploy-software-changes-continuously.md)
@@ -152,6 +153,7 @@ The philosophy behind this learning path is that the learner welcomes the opporu
 - [Distribute Application System Events Using Distributed Event Logs](docs/distribute-application-system-events-using-distributed-event-logs.md)
 - [Distribute Files Using BitTorrent Protocol](docs/distribute-files-using-bittorrent-protocol.md)
 - [Distribute Files Using WebTorrent Protocol](docs/distribute-files-using-webtorrent-protocol.md)
+- [Distribute Files Using DAT Protocol](docs/distribute-files-using-dat-protocol.md)
 - [Distribute Files Using Libp2p Protocol](docs/distribute-files-using-libp2p-protocol.md)
 - [Distribute Files Using Interplanetary File System](docs/distribute-files-using-interplanetary-file-system.md)
 - [Distribute Static Content Using Content Delivery Networks](docs/distribute-static-content-using-content-delivery-networks.md)

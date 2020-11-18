@@ -64,6 +64,7 @@
   * [@hapi/joi](github.com/hapijs/joi)
   * [Mongoose](mongoosejs.com)
   * [Express-gateway](www.express-gateway.io)
+* [Node.js Application Diagnostics Under The Hood | Nikolay Matvienko | JSConf AU 2018](https://youtu.be/y2PRfNsY28w?list=PLZriQCloF6GDuXF8RRPd1mIl9W2QXF-sQ)
 
 ## Specialized Applications Of Node.js
 

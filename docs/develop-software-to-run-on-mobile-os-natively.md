@@ -10,4 +10,6 @@
 ## Resources
 
 * [NativeScript](https://nativescript.org/)
-** [Embedding V8 In The Real Workd | Stanimira Vlaeva | JSConf EU 2019](https://youtu.be/wz7Znu6tqFw?list=PL37ZVnwpeshHwJPVBqEnZild7QHWhdufu)
+  ** [Embedding V8 In The Real Workd | Stanimira Vlaeva | JSConf EU 2019](https://youtu.be/wz7Znu6tqFw?list=PL37ZVnwpeshHwJPVBqEnZild7QHWhdufu)
+* [Facebook Metro](https://facebook.github.io/metro/)
+  * [Facebook Metro GitHub Repository](https://github.com/facebook/metro)

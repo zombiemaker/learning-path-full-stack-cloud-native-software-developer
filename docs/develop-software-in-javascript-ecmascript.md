@@ -47,6 +47,7 @@
   * [GraalVM JavaScript Engine](https://github.com/graalvm/graaljs)
   * [Comparison Of JavaScript Engine](https://en.wikipedia.org/wiki/Comparison_of_JavaScript_engines)
   * [ECMAScript Feature Support](https://kangax.github.io/compat-table/es6/)
+  * [JavaScript Engines: The Good Parts | Mathias Bynens & Benedikt Meurer | JSConf EU 2018](https://www.youtube.com/watch?v=5nmpokoRaZI)
 * JavaScript Runtime Platforms
   * [Node.js (V8)](https://nodejs.org)
   * [Deno JavaScript Runtime (V8)](https://deno.land/)
@@ -85,6 +86,8 @@
   * [Elm](https://elm-lang.org/)
   * [PureScript](https://www.purescript.org/)
   * [ClojureScript](https://clojurescript.org/)
+* Transpiling Programs To JavaScript
+  * [List Of Languages That Compilie To JS](https://github.com/jashkenas/coffeescript/wiki/list-of-languages-that-compile-to-js)
 
 ## Different JavaScript Execution Environments
 

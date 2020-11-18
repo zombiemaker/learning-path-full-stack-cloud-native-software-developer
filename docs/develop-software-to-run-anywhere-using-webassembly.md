@@ -16,3 +16,4 @@
 * [Emscripten SDK](https://github.com/emscripten-core/emsdk)
 * [Node.js 15.2 Documentation N-API](https://nodejs.org/api/n-api.html)
 * [A WebAssembly Field Guide Easily Worth Like 70 Bottle Caps | Flaki | JSConf Korea 2019](https://youtu.be/pDUhX4iY4aY?list=PL37ZVnwpeshGanWnYhTdoFLM2IDF28MaQ)
+* [Hand-crafting WebAssembly | Emil Bay | JSConf EU 2018](https://youtu.be/CfdmzVos1Fs?list=PL37ZVnwpeshG2YXJkun_lyNTtM-Qb3MKa)
