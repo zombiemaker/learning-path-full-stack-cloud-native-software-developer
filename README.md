@@ -64,7 +64,9 @@ JavaScript is the primary programming language used in this learning path.  The 
 - JavaScript can be used to develop applications that run on JavaScript / Wasm Virtual Machine compute nodes provided by mobile network service providers located at their wireless service access point sites that are near their wireless towers
 - JavaScript and WebAssembly can be use to integrate programs written in other languages such as C/C++, C#, F#, Python, Rust, Java, Groovy, Scala, Kotlin, etc.
 
-As you can see, you can get *A LOT OF MILEAGE* from learning to develop applications using JavaScript and the JavaScript / Wasm Virtual Machine that run everywhere throughout the entire technology stack and across the entire n-tiers of compute resources.
+![JavaScript Ubiquity](docs/images/javascript-ubiquity.png)
+
+As you can see, you can get **A LOT OF MILEAGE** from learning to develop applications using JavaScript and the JavaScript / Wasm Virtual Machine that run everywhere throughout the entire technology stack and across the entire n-tiers of compute resources.
 
 
 ## Learning Path
