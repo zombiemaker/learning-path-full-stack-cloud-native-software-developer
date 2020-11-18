@@ -29,7 +29,7 @@ It is an outline and sequence of topics that a person who wants to become a prof
 
 For each topic, there is a collection of links to educational content that the learner can consume to gain knowledge and skills about that topic.
 
-THERE IS A BROAD AND DEEP RANGE OF SUBJECTS that is covered.  We recommend that the learner go through the whole sequence at the basic level of each topic first.  This will give the learner the bigger picture of how the topics related to one another.  Afterwards, the learner can dive deeper into more advanced areas of each topic.
+THERE IS A BROAD AND DEEP RANGE OF SUBJECTS that is covered.  I recommend that the learner go through the whole sequence at the basic level of each topic first.  This will give the learner the bigger picture of how the topics related to one another.  Afterwards, the learner can dive deeper into more advanced areas of each topic.
 
 Resource links are also provided for further exploration and awareness.
 
@@ -50,6 +50,22 @@ The learner is expected and encouraged to explore subjects and find other inform
 The above quote from Jeff Bezos expresses the changes in application system design characteristics that are required to build scalable and responsive systems that satisfies today's (2020) user expectations while enabling hundreds / thousands of individual teams to quickly improve digital services with lowered costs and higher quality.  Such changes require seasoned IT professionals to break old paradigms and embrace and develop new ones.  Sometimes people need the threat of losing their income before they are willing to change themselves as seems to be the case at Amazon years ago.
 
 The philosophy behind this learning path is that the learner welcomes the opporunity to transform him/herself and takes the initiative to discover and pave new paths for him/herself and his/her teams.  It is not for the faint of heart.  If you need to be spoon-fed, this learning path may not be for you.  However, if you are willing engage yourself in this journey to work through the challenging content and integrate the many different pieces in your mind, I believe that you will become a very capable person in transforming society in a digitizing economy.
+
+## Why JavaScript
+
+JavaScript is the primary programming language used in this learning path.  The reasons for this are as follows:
+
+- a software developer will need to use JavaScript to develop web user interface applications
+- JavaScript can be used to develop remote API and service applications using technologies like Node.js
+- JavaScript can be used to develop applications that run within Linux containers and orchestrated on Kubernetes
+- JavaScript can be used to develop applications that run on serverless computing platforms like AWS Lambda, GCP Cloud Functions, Azure Functions, Knative, etc.
+- JavaScript can be used to develop applications that run natively on mobile device operating systems, desktop operating systems, and IoT device operating systems
+- JavaScript can be used to develop applications that run on JavaScript / Wasm Virtual Machine compute nodes provided by internet content delivery network service providers to generate dynamic content close to consumers wherever they are at on Earth
+- JavaScript can be used to develop applications that run on JavaScript / Wasm Virtual Machine compute nodes provided by mobile network service providers located at their wireless service access point sites that are near their wireless towers
+- JavaScript and WebAssembly can be use to integrate programs written in other languages such as C/C++, C#, F#, Python, Rust, Java, Groovy, Scala, Kotlin, etc.
+
+As you can see, you can get *A LOT OF MILEAGE* from learning to develop applications using JavaScript and the JavaScript / Wasm Virtual Machine that run everywhere throughout the entire technology stack and across the entire n-tiers of compute resources.
+
 
 ## Learning Path
 
@@ -81,11 +97,8 @@ The philosophy behind this learning path is that the learner welcomes the opporu
 - [Develop Software To Run On Mobile OS Natively](docs/develop-software-to-run-on-native-mobile-os.md)
 - [Develop Software To Run On Desktop OS Natively](docs/develop-software-to-run-on-native-desktop-os.md)
 - [Develop Software To Run On Kubernetes](docs/develop-software-to-run-on-kubernetes.md)
-- [Develop Software To Run On AWS Lambda Service](docs/develop-software-to-run-on-aws-lambda-service.md)
-- [Develop Software To Run On Azure Functions Service](docs/develop-software-to-run-on-azure-functions-service.md)
-- [Develop Software To Run On Google Cloud Functions Service](docs/develop-software-to-run-on-google-cloud-functions-service.md)
-- [Develop Software To Run On Knative](docs/develop-software-to-run-on-knative.md)
-- [Develop Software To Run On Edge Computing Platforms](docs/develop-software-to-run-on-edge-computing-platoforms.md)
+- [Develop Software To Run On Serverless Compute Platforms](docs/develop-software-to-run-on-serverless-compute-platforms.md)
+- [Develop Software To Run On Edge Compute Platforms](docs/develop-software-to-run-on-edge-compute-platforms.md)
 - [Develop Software To Run Anywhere Using WebAssembly](docs/develop-software-to-run-anywhere-using-webassembly.md)
 - [Test JavaScript Software](docs/test-javascript-software.md)
 - [Document Software](docs/document-software.md)
