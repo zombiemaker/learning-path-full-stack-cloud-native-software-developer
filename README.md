@@ -154,8 +154,7 @@ As you can see, you can get **A LOT OF MILEAGE** from learning to develop applic
 - [Deploy Kubernetes-Based Application System Software Using Helm](docs/deploy-kubernetes-based-application-system-software-using-helm.md)
 - [Trace End-to-End Interactions Of Distributed Software Components](docs/trace-end-to-end-interactions-of-distributed-software-components.md)
 - [Provision Software-Defined Resources](docs/provision-software-defined-resources.md)
-- [Automate Provisioning Of Software-Defined Resources With Terraform](docs/
-automate-provisioning-of-software-defined-resources-with-terraform.md)
+- [Automate Provisioning Of Software-Defined Resources With Terraform](docs/automate-provisioning-of-software-defined-resources-with-terraform.md)
 - [Provision Test Environment On-Demand](docs/provision-test-environment-on-demand.md)
 - [Provision Production Environment Resources On-Demand](docs/provision-production-environment-resources-on-demand.md)
 - [Deploy Software Changes Continuously](docs/deploy-software-changes-continuously.md)
