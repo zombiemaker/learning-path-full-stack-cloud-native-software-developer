@@ -96,7 +96,7 @@ As you can see, you can get *A LOT OF MILEAGE* from learning to develop applicat
 - [Develop Software To Run In JerryScript On Zephyr OS](docs/develop-software-to-run-in-jerryscript-on-zephyr-os.md)
 - [Develop Software To Run On Mobile OS Natively](docs/develop-software-to-run-on-native-mobile-os.md)
 - [Develop Software To Run On Desktop OS Natively](docs/develop-software-to-run-on-native-desktop-os.md)
-- [Develop Software To Run On Kubernetes](docs/develop-software-to-run-on-kubernetes.md)
+- [Develop Software To Run On Container Compute Platforms](docs/develop-software-to-run-on-container-compute-platforms.md)
 - [Develop Software To Run On Serverless Compute Platforms](docs/develop-software-to-run-on-serverless-compute-platforms.md)
 - [Develop Software To Run On Edge Compute Platforms](docs/develop-software-to-run-on-edge-compute-platforms.md)
 - [Develop Software To Run Anywhere Using WebAssembly](docs/develop-software-to-run-anywhere-using-webassembly.md)
