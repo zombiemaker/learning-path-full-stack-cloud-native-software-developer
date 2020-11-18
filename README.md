@@ -53,7 +53,9 @@ The philosophy behind this learning path is that the learner welcomes the opporu
 
 ## Why JavaScript
 
-JavaScript is the primary programming language used in this learning path.  The reasons for this are as follows:
+JavaScript is the primary programming language used in this learning path.
+
+The reasons for this are as follows:
 
 - a software developer will need to use JavaScript to develop web user interface applications
 - JavaScript can be used to develop remote API and service applications using technologies like Node.js
@@ -66,7 +68,7 @@ JavaScript is the primary programming language used in this learning path.  The 
 
 ![JavaScript Ubiquity](docs/images/javascript-ubiquity.png)
 
-As you can see, you can get **A LOT OF MILEAGE** from learning to develop applications using JavaScript and the JavaScript / Wasm Virtual Machine that run everywhere throughout the entire technology stack and across the entire n-tiers of compute resources.
+As you can see, you can get **A LOT OF MILEAGE** from learning to develop applications using JavaScript.  A key enabler that makes this possible is the ubiquity of the JavaScript / Wasm Virtual Machine (e.g., Google V8) that runs everywhere throughout the entire technology stack and across the entire n-tiers of compute resources.
 
 
 ## Learning Path
