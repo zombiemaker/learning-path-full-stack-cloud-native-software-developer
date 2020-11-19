@@ -68,7 +68,7 @@ The reasons for this are as follows:
 
 ![JavaScript Ubiquity](docs/images/javascript-ubiquity.png)
 
-As you can see, you can get **A LOT OF MILEAGE** from learning to develop applications using JavaScript.  A key enabler that makes this possible is the ubiquity of the JavaScript / Wasm Virtual Machine (e.g., Google V8) that runs everywhere throughout the entire technology stack and across the entire n-tiers of compute resources.
+As you can see, you can get **A LOT OF MILEAGE** from learning to develop applications using JavaScript.  A key enabler that makes this possible is the ubiquity of the JavaScript / Wasm Virtual Machine (e.g., Google V8). It can run everywhere throughout the entire technology stack and across the entire n-tiers of computing resources.
 
 
 ## Learning Path
