@@ -8,7 +8,11 @@
 * Develop Messaging / AMQP APIs
 * Develop Messaging / MQTT APIs
 * Develop Messaging / NATS APIs
+* Develop Messaging / NSQ APIs
+* Develop WebRTC APIs
 
 ## Advanced
 
 ## Resources
+
+* [NSQ](https://nsq.io/)
