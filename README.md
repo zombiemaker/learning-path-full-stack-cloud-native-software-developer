@@ -108,6 +108,7 @@ As you can see, you can get **A LOT OF MILEAGE** from learning to develop applic
 - [Develop Software To Run On Serverless Compute Platforms](docs/develop-software-to-run-on-serverless-compute-platforms.md)
 - [Develop Software To Run On Edge Compute Platforms](docs/develop-software-to-run-on-edge-compute-platforms.md)
 - [Develop Software To Run On IoT Compute Platforms](docs/develop-software-to-run-on-iot-compute-platforms.md)
+- [Develop Software To Run On FGPA Compute Platforms](docs/develop-software-to-run-on-fgpa-compute-platforms.md)
 - [Develop Software To Run Anywhere Using WebAssembly](docs/develop-software-to-run-anywhere-using-webassembly.md)
 - [Test JavaScript Software](docs/test-javascript-software.md)
 - [Document Software](docs/document-software.md)
