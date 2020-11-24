@@ -124,7 +124,6 @@ As you can see, you can get **A LOT OF MILEAGE** from learning to develop applic
 - [Publish Software Container Image & Documentation](docs/publish-software-container-image-and-documentation.md)
 - [Manage Software Container Image Source Code Issues](docs/manage-software-container-image-source-code-issues.md)
 - [Automate Software Container Image Build-Test-Publish Process](docs/automate-software-container-image-build-test-publish-process.md)
-- [Manage]
 - [Serialize Data](docs/serialize-data.md)
 - [Develop Digital Services With JavaScript](docs/develop-digital-services-with-javascript.md)
 - [Develop Remote Application Programming Interfaces (APIs)](docs/develop-remote-apis.md)
