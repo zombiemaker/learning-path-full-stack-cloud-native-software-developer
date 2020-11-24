@@ -8,3 +8,4 @@
 * [Hands-On Microservices With Node.js (Diogo Resende)](https://learning.oreilly.com/library/view/hands-on-microservices-with/9781788620215/)
 * [Hands-On Microservices With TypeScript 3 (Amit Bezalel)](https://learning.oreilly.com/videos/hands-on-microservices-with/9781789616989/)
 * [Docker Orchestration and Microservices, Second Edition (Charles David Crawford)](https://learning.oreilly.com/videos/docker-orchestration-and/9780134670805/)
+* [Scalable Microservices With gRPC, Kubernetes, and Docker | Sandeep Dinesh | Node.js Interactive North America 2016](https://youtu.be/xsIwYL-N4vI?list=PLfMzBWSH11xYaaHMalNKqcEurBH8LstB8)

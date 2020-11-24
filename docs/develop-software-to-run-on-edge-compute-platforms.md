@@ -1,4 +1,4 @@
-# Distribute Computing To The Edge
+# Develop Software To Run On Edge Compute Platforms
 
 ## Sub-Topics
 
@@ -8,6 +8,7 @@
 ## Resources
 
 * [JavaScript's Journey To The Edge | Ashley Williams | JSConf EU 2019](https://youtu.be/MBndZddVQdw?list=PL37ZVnwpeshHwJPVBqEnZild7QHWhdufu)
+* [Bringing JavaScript To The IoT Edge | Joe Karlsson | Node + JS Interactive 2019](https://youtu.be/711Sb55fzdg?list=PLfMzBWSH11xZPfWcC0DqFqKo_reMP58mw)
 * [Cloudflare Workers](https://workers.cloudflare.com/)
 * [Akamai Intelligent Edge Platform](https://www.akamai.com/us/en/what-we-do/intelligent-platform/)
 * [Edjx](https://edjx.io/)

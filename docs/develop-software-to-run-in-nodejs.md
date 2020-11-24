@@ -37,11 +37,12 @@
   * [NodeBots at Scale](https://www.youtube.com/watch?v=CGGGklIfigc)
   * [The Node.js Event Loop: Not So Single Threaded](https://youtu.be/zphcsoSJMvM)
 * [Node.js ECMAScript Version Support](https://node.green/)
-* Node.js = V8 + libuv + glue code + npm Node.js package ecosystem
+* Node.js = V8 + libuv + c-ares + OpenSSL + glue code + npm Node.js package ecosystem
   * [Google JavaScript V8 Engine](https://v8.dev/)
   * libuv
     * [libuv GitHub](https://github.com/libuv/libuv)
     * [libuv Documentation](http://docs.libuv.org/en/v1.x/)
+    8 [Introduction to libuv: What's a Unicorn Velociraptor | Colin Ihrig | Node + JS Interactive 2019](https://youtu.be/_c51fcXRLGw?list=PLfMzBWSH11xZPfWcC0DqFqKo_reMP58mw)
   * [Node.js GitHub repositories](https://github.com/nodejs)
   * [npm package ecosystem](https://www.npmjs.com/)
 * Some notable Node.js npm packages

@@ -21,6 +21,10 @@
   * [AVA](https://github.com/avajs)
   * [Tap](https://github.com/substack/tape)
   * [Intern](https://theintern.io/)
+  * [NightWatch.js](https://nightwatchjs.org/)
+  * [WebdriverIO](https://webdriver.io/)
+  * [Phantomas](https://github.com/macbre/phantomas)
+  * [QualityMeter](https://github.com/QualityWorksCG/qualitymeter#readme)
 * JavaScript Testing Libraries
   * [Should.js](https://shouldjs.github.io/)
   * [Chai.js](https://www.chaijs.com/)
