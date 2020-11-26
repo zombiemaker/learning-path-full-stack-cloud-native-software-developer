@@ -176,7 +176,6 @@ As you can see, you can get **A LOT OF MILEAGE** from learning to develop applic
 - [Instrument Software Systems For Observability](docs/instrument-software-systems-for-observability.md)
 - [Distribute Data](docs/distribute-data.md)
 - [Integrate Digitized Information Into A Knowledge Graph](docs/integrate-digitized-information-into-a-knowledge-graph.md)
-- [Develop Application Systems For Multiple User Tenants](docs/develop-application-systems-for-multiple-user-tenants.md)
 - [Develop Application Systems For Searching Distributed Information Resources](docs/develop-application-systems-for-searching-distributed-information-resources.md)
 - [Develop Application Systems For Generating Event Streams](/docs/develop-application-systems-for-generating-event-streams.md)
 - [Develop Application Systems For Receiving Event Streams](/docs/develop-application-systems-for-receiving-event-streams.md)
@@ -192,3 +191,5 @@ As you can see, you can get **A LOT OF MILEAGE** from learning to develop applic
 - [Develop Application Systems For Deciding Things In Near Real Time](docs/develop-application-systems-for-deciding-things-in-near-real-time.md)
 - [Develop Application Systems For Responding To Past Events In Near Real Time](docs/develop-application-systems-for-responding-to-past-events-in-near-real-time.md)
 - [Develop Application Systems For Shaping Future Events In Near Real Time](docs/develop-application-systems-for-shaping-future-events-in-near-real-time.md)
+- [Develop Application Systems That Support Multi Active Region Deployments](docs/develop-application-systems-that-support-multi-active-region-deployments.md)
+- [Develop Application Systems That Support Multiple User Tenants](docs/develop-application-systems-that-support-multiple-user-tenants.md)

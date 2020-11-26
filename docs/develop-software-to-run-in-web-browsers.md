@@ -7,6 +7,8 @@
   * [ReactJS Fundamentals, 3rd Edition (Charles David Crawford)](https://learning.oreilly.com/videos/reactjs-fundamentals-3rd/9780136612117/)
   * [Hands-On Application Development With React And Bootstrap (Bruce M. Van Horn II)](https://learning.oreilly.com/videos/hands-on-application-development/9781789531381/)
   * [Testing React.js Applications With Jest: A Complete Introduction To Fast, Easy Testing (Gigi Sayfan)](https://learning.oreilly.com/videos/testing-react-js-applications/9781484239803/)
+  * [Full-Stack React](https://learning.oreilly.com/videos/full-stack-react/9780136887294)
+
 * Vue.js
   * [Vue JS 2 - The Complete Guide (including Vue Router and Vuex) (Maximilian Schwarzmuller)](https://learning.oreilly.com/videos/vue-js-2/9781788992817/)
   * [Vue.js 2 Academy: Learn Vue Step By Step (Chris Dixon)](https://learning.oreilly.com/videos/vue-js-2-academy/9781838985455/)
@@ -15,12 +17,15 @@
   * [Hands-On Web Development With Vue.js (Roman Kuba)](https://learning.oreilly.com/videos/hands-on-web-development/9781787283039/)
   * [Beginning Vue.js (Garry Jennings and Andrea Passaglia)](https://learning.oreilly.com/videos/beginning-vue-js/9781789534719/)
   * [Fullstack Enterprise MEVN: Mongo, Express, Vue, and Node (Kati Frantz)](https://learning.oreilly.com/videos/fullstack-enterprise-mevn/9781800202276/)
+
 * Angular.js
   * [Angular Crash Course (Bharath Thippireddy)](https://learning.oreilly.com/videos/angular-crash-course/9781800209824/)
   * [Modern Web Design Patterns In Angular 8 (David Acosta)](https://learning.oreilly.com/videos/angular-crash-course/9781800209824/)
+
 * Bootstrap
   * [A Quick Guide To Bootstrap 4 (Laurence Svekis)](https://learning.oreilly.com/videos/a-quick-guide/9781789616415/)
   * [Bootstrap 4 for Beginners - Build 5 Websites From Scratch (Laurence Svekis)](https://learning.oreilly.com/videos/bootstrap-4-for/9781789808179/)
+
 * Svelte.js
   * [Svelte.js - The Complete Guide (Maximilian Schwarzmuller)](https://learning.oreilly.com/videos/svelte-js-the/9781838988937)
   * [Rich Harris: Futuristic Web Development](https://youtu.be/qSfdtmcZ4d0)

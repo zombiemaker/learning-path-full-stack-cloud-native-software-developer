@@ -4,13 +4,16 @@
 
 * General
   * [The V8 Engine and Node.js](https://youtu.be/PsDqH_RKvyc)
+
 * Node.js 14
   * [Node.js Web Development - Fifth Edition (David Herron)](https://learning.oreilly.com/library/view/nodejs-web-development/9781838987572/)
-  * [Node.js Design Patterns - Third Edition (Mario Casciaro, Luciano Mammino)](https://learning.oreilly.com/library/view/nodejs-design-patterns/9781839214110/)
   * [Distributed Systems With Node.js (Thomas Hunter)](https://learning.oreilly.com/library/view/distributed-systems-with/9781492077282/)
   * [Your First Week WIth Node.js, 2nd Edition (James Hibbard, etc.)](https://learning.oreilly.com/library/view/your-first-week/9781098122805/)
   * [Node.js: Tools & Skills, 2nd Edition (James Hibbard, etc.)](https://learning.oreilly.com/library/view/nodejs-tools/9781098122836/)
+  * [Node.js Design Patterns - Third Edition (Mario Casciaro, Luciano Mammino)](https://learning.oreilly.com/library/view/nodejs-design-patterns/9781839214110/)
 * Node.js 12
+  * [NodeJS Made Easy For MEAN Or MERN Stack (Bharath Thippireddy)](https://learning.oreilly.com/videos/nodejs-made-easy/9781801076890/)
+  * [A Quick Start Guide To Node.js (Laurence Svekis)](https://learning.oreilly.com/videos/a-quick-start/9781800568952/)
   * [RESTful Web API Design With Node.js 12 (Florian Goto)](https://learning.oreilly.com/videos/restful-web-api/9781838648770/)
 * Node.js 10
   * [Node.js Absolute Beginners Guide - Learn Node from Scratch (John Elder)](https://learning.oreilly.com/videos/node-js-absolute-beginners/9781838987961)
@@ -20,7 +23,9 @@
   * [Node.js - The Complete Guide (Maximilian Schwarzmuller)](https://learning.oreilly.com/videos/node-js-the/9781838826864)
 
 ## Advanced
+
   * [Modern Web Development (Dimitris Loukas)](https://learning.oreilly.com/videos/javascript-essentials-for/9781838982676)
+  * [Node.js API Masterclass With Express And MongoDB (Brad Traversy)](https://learning.oreilly.com/videos/node-js-api-masterclass/9781800569638/)
 
 ## Resources
 
@@ -46,27 +51,36 @@
     * [An Introduction To libuv (Nikhil Marathe)](http://nikhilm.github.io/uvbook/)
   * [Node.js GitHub repositories](https://github.com/nodejs)
   * [npm package ecosystem](https://www.npmjs.com/)
-* Some notable Node.js npm packages
-  * [Express](https://www.datree.io/resources/node-js-frameworks-packages)
+  * [Node.js Application Diagnostics Under The Hood | Nikolay Matvienko | JSConf AU 2018](https://youtu.be/y2PRfNsY28w?list=PLZriQCloF6GDuXF8RRPd1mIl9W2QXF-sQ)
+
+## Node.js NPM Packages
+
+Packges With Components In Your Solution
+  * HTTP server - [Express](https://www.datree.io/resources/node-js-frameworks-packages)
+  * HTTP client - [Axios](https://github.com/axios/axios)
+  * Microservice API gateway - [Express-gateway](https://www.express-gateway.io)
+  * HTML / CSS UI Framework - [Vue.js](https://vuejs.org/)
+  * MongoDB Object Document Mapping - [Mongoose](https://mongoosejs.com)
+
+
+Packages For Developing Your Solution
   * [Webpack](https://webpack.js.org/)
-  * [Vue.js](https://vuejs.org/)
   * [Koa](https://koajs.com/)
-  * [Axios](https://github.com/axios/axios)
+  * [nodemon](https://www.npmjs.com/package/nodemon)
+
   * [Bunyan](https://github.com/trentm/node-bunyan)
   * [Sequelize](https://sequelize.org/)
   * [Knex](http://knexjs.org/)
   * [RxJS](https://github.com/ReactiveX/rxjs)
   * [Faker](https://github.com/marak/faker.js/)
-  * [Async.js](https://caolan.github.io/async/v3/)
+  * [Async.js](https://caolan.github.io/async/)
   * [pm2](https://pm2.keymetrics.io/)
   * [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken)
-  * [Helmet](github.com/helmetjs/helmet)
-  * [Cors](github.com/expressjs/cors)
-  * [Morgan](github.com/expressjs/morgan)
-  * [@hapi/joi](github.com/hapijs/joi)
-  * [Mongoose](mongoosejs.com)
-  * [Express-gateway](www.express-gateway.io)
-* [Node.js Application Diagnostics Under The Hood | Nikolay Matvienko | JSConf AU 2018](https://youtu.be/y2PRfNsY28w?list=PLZriQCloF6GDuXF8RRPd1mIl9W2QXF-sQ)
+  * [Helmet](https://github.com/helmetjs/helmet)
+  * [Cors](https://github.com/expressjs/cors)
+  * [Morgan](https://github.com/expressjs/morgan)
+  * [@hapi/joi](https://github.com/hapijs/joi)
+  
 
 ## Specialized Applications Of Node.js
 

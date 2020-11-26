@@ -44,3 +44,7 @@
 ## Note
 
 As of 11/2020, VirtualBox cannot run on the same machine that uses WSL2.  WSL2 requires the Windows feature “Virtual Machine Platform”, which is not compatible with VirtualBox.
+
+## Sub-Topics
+
+* [Configure Visual Studio Code](configure-visual-studio-code.md)
