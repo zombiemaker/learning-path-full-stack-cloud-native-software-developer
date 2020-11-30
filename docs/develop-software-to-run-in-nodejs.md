@@ -55,32 +55,33 @@
 
 ## Node.js NPM Packages
 
-Packges With Components In Your Solution
+Packages With Components In Your Solution
   * HTTP server - [Express](https://www.datree.io/resources/node-js-frameworks-packages)
   * HTTP client - [Axios](https://github.com/axios/axios)
   * Microservice API gateway - [Express-gateway](https://www.express-gateway.io)
   * HTML / CSS UI Framework - [Vue.js](https://vuejs.org/)
   * MongoDB Object Document Mapping - [Mongoose](https://mongoosejs.com)
+  * [Async.js](https://caolan.github.io/async/)
+  * [RxJS](https://github.com/ReactiveX/rxjs)
 
 
 Packages For Developing Your Solution
   * [Webpack](https://webpack.js.org/)
   * [Koa](https://koajs.com/)
   * [nodemon](https://www.npmjs.com/package/nodemon)
-
+  * [colors]() - Enables coloring console messages
   * [Bunyan](https://github.com/trentm/node-bunyan)
   * [Sequelize](https://sequelize.org/)
   * [Knex](http://knexjs.org/)
-  * [RxJS](https://github.com/ReactiveX/rxjs)
+  
   * [Faker](https://github.com/marak/faker.js/)
-  * [Async.js](https://caolan.github.io/async/)
+  
   * [pm2](https://pm2.keymetrics.io/)
   * [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken)
   * [Helmet](https://github.com/helmetjs/helmet)
   * [Cors](https://github.com/expressjs/cors)
   * [Morgan](https://github.com/expressjs/morgan)
   * [@hapi/joi](https://github.com/hapijs/joi)
-  
 
 ## Specialized Applications Of Node.js
 
