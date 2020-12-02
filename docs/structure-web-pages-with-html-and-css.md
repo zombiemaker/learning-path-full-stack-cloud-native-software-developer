@@ -15,6 +15,7 @@
 * [Mozilla Guide HTML5]()
 * [W3C HTML5 Specs](https://www.w3.org/TR/2014/REC-html5-20141028/single-page.html)
 * [W3C School HTML Tutorial](https://www.w3schools.com/html/)
+* [HTML5 Pocket REference, 5th Edition (Jennifer Robbins) (2013)](https://learning.oreilly.com/library/view/html5-pocket-reference/9781449368777/)
 * [Firefox Browser](https://www.mozilla.org/en-US/firefox/new/)
 * [Google Chrome Browser](https://www.google.com/chrome)
 * [Microsoft Edge Browser](https://www.microsoft.com/en-us/edge)

@@ -1,5 +1,12 @@
 # Distribute Data
 
+
+## Basic
+
+## Advanced
+
+* [The Self-Service Data Roadmap (Sandeep Uttamchandani) (2020)](https://learning.oreilly.com/library/view/the-self-service-data/9781492075240/)
+
 ## Sub-Topics
 
 - [Distribute Application System Events Using Distributed Event Logs](distribute-application-system-events-using-distributed-event-logs.md)

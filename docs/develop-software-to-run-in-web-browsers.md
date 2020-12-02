@@ -32,7 +32,9 @@
 
 ## Advanced
 
-* [Hacking Angular JS Applications (Dawid Czagan)](https://learning.oreilly.com/videos/hacking-angularjs-applications/9781838988340/)*
+* [Hacking Angular JS Applications (Dawid Czagan)](https://learning.oreilly.com/videos/hacking-angularjs-applications/9781838988340/)
+* [Designing Interfaces, 3rd Edition (Tidwell, Brewer, Valencia) (2020)](https://learning.oreilly.com/library/view/designing-interfaces-3rd/9781492051954/)
+* [Interaction Design, 5th Edition (Sharp, Preece, Rogers) (2019)](https://learning.oreilly.com/library/view/interaction-design-5th/9781119547259/)
 
 ## Resources
 
