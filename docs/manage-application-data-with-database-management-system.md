@@ -19,7 +19,13 @@
   * [MariaDB](https://mariadb.org/)
   * [PostgreSQL](https://www.postgresql.org/)
 * Key-Value Data Model DBMS
+  * [Redis](https://redis.io/)
+  * [Riak KV](https://riak.com/products/riak-kv/index.html)
+  * [Voldemort](https://www.project-voldemort.com/voldemort/)
+* Document DBMS
   * [MongoDB](https://www.mongodb.com/)
+  * [CouchDB](https://couchdb.apache.org/)
+  * [RethinkDB](https://rethinkdb.com/)
 * Text Search DBMS
   * [Elasticsearch](https://www.elastic.co/)
 * Graph DBMS
@@ -28,8 +34,7 @@
   * [Cayley](https://github.com/cayleygraph/cayley)
 * Columnar DBMS
   * [Apache Cassandra](https://cassandra.apache.org/)
-* Document DBMS
-  * [RethinkDB](https://rethinkdb.com/)
+
 * [Amazon Database]()
   * [Amazon Aurora]()
   * [Amazon RD]()

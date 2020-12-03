@@ -2,13 +2,9 @@
 
 ## Basics
 
-* HTTP Remote API Programming Models
-  * Type Marshaling / Serialization Remote API Programming Model
-    * Shared Schema (e.g., SOAP)
-    * URI Construction API (e.g., /salesorders, /salesorders/123)
-    * Payload Decoration API (e.g. { "_type": "SalesOrder" } JSON message)
-    * Narrow Media Type API (e.g. application/salesorder+json MIME type / HTTP content type)
-  * Hypermedia Remote API Programming Model
+
+* General REST APIs
+  * [REST APIs Must Be Hypertext-Driven (Roy Fielding)](https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven)
 * Develop Hypermedia HTTP APIs
   * [REST, Hypermedia, And The Semantic Gap (Mike Amundsen) (2015)](https://learning.oreilly.com/videos/rest-hypermedia-and/9781491936511/)
   * [Design APIs For The Web (Mike Amundsen) (2014)](https://learning.oreilly.com/videos/designing-apis-for/9781491900147/)
@@ -26,7 +22,7 @@
   * [Irresistible APIs (Kirsten Hunter) (2016)](https://learning.oreilly.com/library/view/irresistible-apis/9781617292552/)
   * [APIs For Modern Commerce (Kelly Goetsch) (2017)](https://learning.oreilly.com/library/view/apis-for-modern/9781491995266/)
   * [CORS In Action: Creating And Consuming Cross-Origin APIs (2014)](https://learning.oreilly.com/library/view/cors-in-action/9781617291821/)
-* Develop Non-Hypermedia HTTP APIs
+* Develop RPC HTTP APIs
   * [Mastering REST APIs In Node.js: Zero To Hero (2019)](https://learning.oreilly.com/videos/mastering-rest-apis/9781838825232)
   * [Hands-On RESTful Web Services With TypeScript 3 (Biharck Muniz Araujo) (2019)](https://learning.oreilly.com/library/view/hands-on-restful-web/9781789956276/)
 * Develop GraphQL HTTP APIs
@@ -46,3 +42,22 @@
 ## Resources
 
 * [NSQ](https://nsq.io/)
+
+## Concepts
+
+* Remote API Types
+  * RPC APIs
+  * REST APIs
+* HTTP Remote API Programming Models
+  * Type Marshaling / Serialization Remote API Programming Model
+    * Shared Schema (e.g., SOAP)
+    * URI Construction API (e.g., /salesorders, /salesorders/123)
+    * Payload Decoration API (e.g. { "_type": "SalesOrder" } JSON message)
+    * Narrow Media Type API (e.g. application/salesorder+json MIME type / HTTP content type)
+  * Hypermedia Remote API Programming Model
+* Inter-Application Message Data Structuring Formats
+  * XML
+  * JSON
+  * HTML
+  * Apache Avro
+  * Google Protocol Buffers

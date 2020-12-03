@@ -3,7 +3,7 @@
 ## Basics
 
 * [Level Up Your Web Apps With WebAseembly (Robert Aboukhali)](https://learning.oreilly.com/videos/level-up-your/0636920335801/)
-* [Rust In Motion (Carol Nichols and Jake Goulding)]
+* [Rust In Motion (Carol Nichols and Jake Goulding)](https://learning.oreilly.com/videos/rust-in-motion/10000MNLV201742/)
 * [Explor Blazor: Understanding Its Essentials And Navigation](https://learning.oreilly.com/videos/exploring-blazor-understanding/9781484261262/)
 * [Practical Blazor Debugging: Debugging Blazor WebAssembly Applications With Visual Studio And Blazor Server-Side Feature (Peter Himschoot)](https://learning.oreilly.com/videos/practical-blazor-debugging/9781484265925/)
 
