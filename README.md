@@ -80,7 +80,7 @@ As you can see, you can get **A LOT OF MILEAGE** from learning to develop applic
 - [Operate Linux Machines](docs/operate-linux-machines.md)
 - [Develop Linux Shell Scripts](docs/develop-linux-shell-scripts.md)
 - [Network Computers](docs/network-computers.md)
-- [Communicate Between Computers With TCP/IP](docs/communicate-between-computers-with-tcip.md)
+- [Communicate Between Computers With TCP/IP](docs/communicate-between-computers-with-tcpip.md)
 - [Automate Computer Network Configuration With DHCP](docs/automate-computer-network-configuration-with-dhcp.md)
 - [Resolve Network Names & Addresses With DNS](docs/resolve-network-names-and-addresses-with-dns.md)
 - [Execute Commands On Remote Computers With SSH](docs/execute-commands-on-remote-computers-with-ssh.md)
