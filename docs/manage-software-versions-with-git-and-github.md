@@ -13,3 +13,4 @@
 * [Git for Windows](https://git-scm.com/downloads)
 * [Git for Linux](https://git-scm.com/downloads)
 * [GitHub](https://github.com)
+* [Trunk-Based Development](https://trunkbaseddevelopment.com/)
