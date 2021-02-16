@@ -2,6 +2,7 @@
 
 ## Basics
 
+* [GitHub & Git Foundations](https://www.youtube.com/playlist?list=PL0lo9MOBetEHhfG9vJzVCTiDYcbhAiEqL)
 * [O’Reilly Katacoda Scenarios: Git](https://www.katacoda.com/courses/git)
 * [Getting Started With Git: Understand The Git Version Control System and How To Use It At A Basic Level (Karl Beecher)](https://learning.oreilly.com/videos/getting-started-with/9781484263532/)
 * [Learn Git In 3 Hours (Ross Conyers)](https://learning.oreilly.com/videos/learn-git-in/9781789348231)
