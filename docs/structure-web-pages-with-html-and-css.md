@@ -2,17 +2,17 @@
 
 ## Basics
 
-* [The Ultimate HTML Developer 2020 (Kalob Taulien)]()
-* [HTML and CSS for Beginners: Build 3 Projects From Scratch (Chris Dixon)]()
-* [HTML CSS and JavaScript for Beginners - A Web Design Course (Laurence Svekis)]()
+* [The Ultimate HTML Developer 2020 (Kalob Taulien)](https://learning.oreilly.com/videos/the-ultimate-html/9781800565197/)
+* [HTML and CSS for Beginners: Build 3 Projects From Scratch (Chris Dixon)](https://learning.oreilly.com/videos/html-and-css/9781839211072/)
+* [HTML CSS and JavaScript for Beginners - A Web Design Course (Laurence Svekis)](https://learning.oreilly.com/videos/html-css-and/9781838551278/)
 
 ## Advanced
 
-* [2D Game Development WIth HTML5 Canvas, JS - Tic Tac Toe Game (Aarthi Elumalai)]()
+* [2D Game Development WIth HTML5 Canvas, JS - Tic Tac Toe Game (Aarthi Elumalai)](https://learning.oreilly.com/videos/2d-game-development/9781838646646/)
 
 ## Resources
 
-* [Mozilla Guide HTML5]()
+* [Mozilla Guide HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 * [W3C HTML5 Specs](https://www.w3.org/TR/2014/REC-html5-20141028/single-page.html)
 * [W3C School HTML Tutorial](https://www.w3schools.com/html/)
 * [HTML5 Pocket REference, 5th Edition (Jennifer Robbins) (2013)](https://learning.oreilly.com/library/view/html5-pocket-reference/9781449368777/)

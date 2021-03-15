@@ -8,10 +8,12 @@
 * [Learn Git In 3 Hours (Ross Conyers)](https://learning.oreilly.com/videos/learn-git-in/9781789348231)
 * [Git and GitHub: The Complete Git and GitHub Course (George Lomidze)](https://learning.oreilly.com/videos/learn-git-in/9781789348231)
 * [Git Essentials LiveLessons (Daniel Y. Chen)](https://learning.oreilly.com/videos/git-essentials-livelessons/9780134655284)
+* [Learning GitHub](https://learning.oreilly.com/videos/learning-github/9781771374835)
 
 ## Resources
 
 * [Git for Windows](https://git-scm.com/downloads)
 * [Git for Linux](https://git-scm.com/downloads)
 * [GitHub](https://github.com)
+* [GitHub Guides](https://guides.github.com/)
 * [Trunk-Based Development](https://trunkbaseddevelopment.com/)
