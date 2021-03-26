@@ -12,7 +12,7 @@
 * [Linux Security and Hardening, The Practical Security Guide (Jason Cannon)](https://learning.oreilly.com/videos/linux-security-and/9781789612820/)
 * [Practical Linux Security Solutions (Tajinder Kalsi)](https://learning.oreilly.com/videos/practical-linux-security/9781789619713/)
 * [Mastering CentOS 7 Linux Server (Muhammad Atif Ramzan)](https://learning.oreilly.com/videos/mastering-centos-7/9781787284524)
-*
+* [Building Linux Servers: DHCP, DNS, and Directory Services (David L. Prowse)](https://learning.oreilly.com/videos/building-linux-servers/9780137368495)
 
 
 ## Resources

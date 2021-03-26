@@ -10,7 +10,7 @@
   * [How To Use VirtualBox (Beginners Guide)](https://youtu.be/sB_5fqiysi4)
   * [An Introduction To VirtualBox](https://www.youtube.com/watch?v=D1dVhDYAv9E)
 * Create VMware Workstation VMs (just view for awareness)
-  * 
+
 
 ## Resources
 

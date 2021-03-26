@@ -119,6 +119,7 @@ As you can see, you can get **A LOT OF MILEAGE** from learning to develop applic
 - [Publish Software Distribution Package](docs/publish-software-distribution-package-and-documentation.md)
 - [Automate Software Package Build-Test-Publish Process](docs/automate-software-package-build-test-publish-process.md)
 - [Manage Software Source Code Issues](docs/manage-software-source-code-issues.md)
+- [Orchestrate Containers With Kubernetes](docs/orchestrate-containers-with-kubernetes.md)
 - [Develop Software Container Image](docs/develop-software-container-image.md)
 - [Document Software Container Image](docs/document-software-container-image.md)
 - [Publish Software Container Image Source Code & Documentation](docs/publish-software-container-image-source-code-and-documentation.md)
