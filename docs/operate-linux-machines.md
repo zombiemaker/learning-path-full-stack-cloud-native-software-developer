@@ -24,3 +24,18 @@
 * [Alma Linux](https://almalinux.org/)
 * [Flatcar Container Linux](https://kinvolk.io/flatcar-container-linux/)
 * [Fedora CoreOS](https://getfedora.org/en/coreos?stream=stable)
+
+## Useful Linux Programs
+
+* bash
+* vi, vim
+* nano
+* tree
+* wget
+* curl
+* jq
+* yq
+* ssh
+* git
+* docker
+
