@@ -127,6 +127,7 @@ As you can see, you can get **A LOT OF MILEAGE** from learning to develop applic
 - [Automate Software Container Image Build-Test-Publish Process](docs/automate-software-container-image-build-test-publish-process.md)
 - [Serialize Data](docs/serialize-data.md)
 - [Develop Software Conforming To Generally Accepted Standards](docs/develop-software-conforming-to-generally-accepted-standards.md)
+- [Design Software Application System](docs/design-software-application-system.md)
 - [Develop Digital Services](docs/develop-digital-services.md)
 - [Develop Remote Application Programming Interfaces (APIs)](docs/develop-remote-apis.md)
 - [Automate Testing Of Software Component Remote APIs](docs/automate-testing-of-software-component-remote-apis.md)
