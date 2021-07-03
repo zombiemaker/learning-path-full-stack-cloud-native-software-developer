@@ -9,21 +9,26 @@
 
 ## Standards
 
+* [Tim Berners-Lee Linked Data Principles](http://www.w3.org/DesignIssues/LinkedData.html)
 * RDF Data Model
-* RDF/XML Data Serialization
+* RDF/XML Data Serialization Format
+* Turtle Data Serialization Format
+* JSON-LD Data Serialization Format
 * SPARQL
 * [W3C R2RML](https://www.w3.org/TR/r2rml/)
 * [RDFa](https://rdfa.info/)
 * [RDFa Lite](https://www.w3.org/TR/rdfa-lite/)
-* OWL
-* JSON-LD
+* OWL 
 
 ## Standard Vocabularies
 
 * [Schema.org](https://schema.org)
-* [Hydra](https://www.hydra-cg.com/)
+* [Hydra API Description Vocabulary](https://www.hydra-cg.com/)
+* [Dublin Core Vocabulary](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/)
 
 ## Tools Resources
 
 * [D2RQ Server](http://d2rq.org/d2r-server)
 * [rdfcat]
+* [StarDog Enterprise Knowledge Graph Platform](https://www.stardog.com/platform/)
+* [StarDog Cloud](https://www.stardog.com/stardog-cloud/)
