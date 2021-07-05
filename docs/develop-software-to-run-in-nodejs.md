@@ -64,24 +64,30 @@ Packages With Components In Your Solution
   * [Async.js](https://caolan.github.io/async/)
   * [RxJS](https://github.com/ReactiveX/rxjs)
 
-
-Packages For Developing Your Solution
-  * [Webpack](https://webpack.js.org/)
+Packages For Developing Your Solution  
   * [Koa](https://koajs.com/)
   * [nodemon](https://www.npmjs.com/package/nodemon)
   * [colors]() - Enables coloring console messages
   * [Bunyan](https://github.com/trentm/node-bunyan)
   * [Sequelize](https://sequelize.org/)
-  * [Knex](http://knexjs.org/)
-  
-  * [Faker](https://github.com/marak/faker.js/)
-  
+  * [Knex](http://knexjs.org/)  
+  * [Faker](https://github.com/marak/faker.js/)  
   * [pm2](https://pm2.keymetrics.io/)
   * [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken)
   * [Helmet](https://github.com/helmetjs/helmet)
   * [Cors](https://github.com/expressjs/cors)
   * [Morgan](https://github.com/expressjs/morgan)
   * [@hapi/joi](https://github.com/hapijs/joi)
+
+Build Task Automation Frameworks
+* [Gulp.js](https://gulpjs.com/)
+* [Grunt.js](https://gruntjs.com/)
+* [Broccoli.js](https://broccoli.build/)
+* [Brunch](https://brunch.io/)
+
+JavaScript Module Bunders
+* [Webpack](https://webpack.js.org/)
+* [Parcel](https://parceljs.org)
 
 ## Specialized Applications Of Node.js
 
