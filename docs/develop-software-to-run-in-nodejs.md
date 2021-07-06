@@ -42,7 +42,7 @@
   * [NodeBots at Scale](https://www.youtube.com/watch?v=CGGGklIfigc)
   * [The Node.js Event Loop: Not So Single Threaded](https://youtu.be/zphcsoSJMvM)
 * [Node.js ECMAScript Version Support](https://node.green/)
-* Node.js = V8 + libuv + c-ares + OpenSSL + glue code + npm Node.js package ecosystem
+* Node.js = Google V8 + libuv + c-ares + OpenSSL + glue code + npm Node.js package ecosystem
   * [Google JavaScript V8 Engine](https://v8.dev/)
   * libuv
     * [libuv GitHub](https://github.com/libuv/libuv)
@@ -85,12 +85,23 @@ Build Task Automation Frameworks
 * [Broccoli.js](https://broccoli.build/)
 * [Brunch](https://brunch.io/)
 
+Node.js Software Testing
+* Node.js Assert
+* [Jasmine](https://jasmine.github.io/) + [Karma](https://karma-runner.github.io/2.0/index.html)
+* [Mocha](https://mochajs.org/) + [Chai](https://www.chaijs.com/)
+* [Jest](https://jestjs.io/)
+* [Cypress](https://www.cypress.io/)
+
 JavaScript Module Bunders
 * [Webpack](https://webpack.js.org/)
 * [Parcel](https://parceljs.org)
+
+Authentication Modules
+* [Passport](http://www.passportjs.org/)
 
 ## Specialized Applications Of Node.js
 
 * [NodeBots: JavaScript Robots With Arduino]()
 * [NodeBots](https://nodebots.io/)
 * [When Porgs Scream At Webpack And Other Stores (Dominik Kundel)](https://youtu.be/YzSQh9djW04?list=PLfMzBWSH11xZPfWcC0DqFqKo_reMP58mw)
+
