@@ -2,6 +2,29 @@
 
 ## Basics
 
+* Web Browser Platform Components
+  * OS components interaction components
+  * JavaScript program execution engine
+    * Native APIs
+    * JavaScript APIs
+  * HTML rendering engine  
+  * Web browser DOM
+    * JavaScript DOM APIs
+* Web browser application components
+  * HTML
+  * CSS
+  * Media assets (e.g., images, audio, video)
+  * JavaScript program
+  * SVG
+  * JavaScript program libraries (e.g., React.js)
+
+* HTML SVG
+  * [Using SVG With CSS3 And HTML5](https://learning.oreilly.com/library/view/using-svg-with/9781491921968/)
+  * [Beginning SVG: A Practical Introduction To SVG Using Real-World Examples](https://learning.oreilly.com/library/view/beginning-svg-a/9781484237601/)
+  * [Mastering SVG](https://learning.oreilly.com/library/view/mastering-svg/9781788626743/)
+  * [D3.js: Complete Developer Data Visualization Guide](https://learning.oreilly.com/videos/d3js-complete-developer/9781800565692)
+  
+
 * React.js
   * [The Complete React.js and Redux Course - Build Modern Web Apps](https://learning.oreilly.com/videos/the-complete-react/9781789950656/)
   * [ReactJS Fundamentals, 3rd Edition (Charles David Crawford)](https://learning.oreilly.com/videos/reactjs-fundamentals-3rd/9780136612117/)
@@ -56,12 +79,15 @@
     * [RAWGraphs](https://rawgraphs.io/)
     * [matplotlib](https://matplotlib.org/)
     * [seaborn](https://seaborn.pydata.org/)
-  * Others
+  * Others Visualization Tools
     * Tableau
     * Microsoft PowerBI
     * Qlik Sense
     * [TIBCO Spotfire](https://www.tibco.com/products/tibco-spotfire)
     * [Plotly](https://plotly.com/)
+  * Styles
+    * [Sunlight Foundataion Data Visualization Style Guidelines](https://sunlightfoundation.com/2014/03/12/datavizguide/)
+    * [Google Fonts](https://fonts.google.com/)
   * Visualization Examples
     * [Reuters Graphics](https://graphics.reuters.com/)
     * [The Upshot](https://www.nytimes.com/section/upshot)
