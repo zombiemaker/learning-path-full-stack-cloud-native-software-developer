@@ -99,6 +99,26 @@ JavaScript Module Bunders
 Authentication Modules
 * [Passport](http://www.passportjs.org/)
 
+Encryption
+* [CertBot](https://certbot.eff.org/) + [Webroot](https://certbot.eff.org/docs/using.html#webroot)
+
+## Tools
+
+Observability Tools
+* Event logging
+  * [ELK Stack](https://www.elastic.co/what-is/elk-stack)
+* Metrics measurements
+  * [StatsD](https://github.com/statsd/statsd) + [Graphite](https://github.com/graphite-project) + [Grafana](https://grafana.com/)
+  * Prometheus + Grafana
+  * Telgraf + InfluxDB + Grafana
+* Distributed request tracing
+  * [Zipkin](https://zipkin.io/)
+  * [Jaeger](https://www.jaegertracing.io/)
+
+Testing Tools
+* [Autocannon](https://github.com/mcollina/autocannon)
+
+
 ## Specialized Applications Of Node.js
 
 * [NodeBots: JavaScript Robots With Arduino]()
