@@ -1,5 +1,20 @@
 # Develop Remote Application Programming Interfaces (APIs)
 
+## Categories / Types Of APIs
+
+* REST / JSON = HTTP + JSON
+* REST / JSON:API = HTTP + JSON:API
+* REST / JSON Schema = HTTP + JSON Schema
+* REST / OpenAPI
+* REST / JSON
+* REST / XML = HTTP + XML
+* GraphQL = HTTP + JSON
+* gRPC = gRPC + Protobufs
+* Hypermedia = HTTP + content negotiation
+* HTTP / JSON-LD
+
+
+
 ## Basics
 
 
@@ -41,6 +56,14 @@
 
 ## Resources
 
+* [JSON Schema](https://json-schema.org/)
+* [JSON:API](https://jsonapi.org/)
+* [OpenAPI](https://www.openapis.org/)
+* [JSON-LD](https://json-ld.org/)
+* [gRPC](https://grpc.io/)
+* [JSON RPC](https://jsonrpc.org/)
+* [Apache Avro](https://avro.apache.org/)
+* [Apache Thrift](https://thrift.apache.org/)
 * [NSQ](https://nsq.io/)
 
 ## Concepts
