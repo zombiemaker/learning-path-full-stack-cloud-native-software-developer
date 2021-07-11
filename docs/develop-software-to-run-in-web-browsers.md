@@ -1,6 +1,6 @@
 # Develop Software To Run In Web Browsers
 
-## Basics
+## Web Browser Application System Components
 
 * Web Browser Platform Components
   * OS components interaction components
@@ -12,11 +12,14 @@
     * JavaScript DOM APIs
 * Web browser application components
   * HTML
+    * SVG
   * CSS
   * Media assets (e.g., images, audio, video)
-  * JavaScript program
-  * SVG
+  * JavaScript program  
   * JavaScript program libraries (e.g., React.js)
+
+
+## Basics
 
 * HTML SVG
   * [Using SVG With CSS3 And HTML5](https://learning.oreilly.com/library/view/using-svg-with/9781491921968/)
@@ -54,7 +57,8 @@
   * [Rich Harris: Futuristic Web Development](https://youtu.be/qSfdtmcZ4d0)
 
 * Data Visualization
-  * [Data Visualization With D3, JavaScript, React](https://youtu.be/2LhoCfjm8R4)
+  * [Data Visualization With D3, JavaScript, React Part 1](https://youtu.be/2LhoCfjm8R4)
+  * [Data Visualizaiton With D3, JavaScript, React Part 2](https://youtu.be/H2qPeJx1RDI)
 
 ## Advanced
 
@@ -79,15 +83,22 @@
     * [RAWGraphs](https://rawgraphs.io/)
     * [matplotlib](https://matplotlib.org/)
     * [seaborn](https://seaborn.pydata.org/)
-  * Others Visualization Tools
+  * Others Visualization Stack
     * Tableau
     * Microsoft PowerBI
     * Qlik Sense
     * [TIBCO Spotfire](https://www.tibco.com/products/tibco-spotfire)
     * [Plotly](https://plotly.com/)
+  * Misc Visualization Tools
+    * [VizHub](https://vizhub.com/)
+    * [mapshaper](https://mapshaper.org/)
+    * [GeoJson](https://geojson.org/)
+    * [Topojson Data](https://github.com/topojson/topojson)
+    * [Topojson World Atlas](https://github.com/topojson/world-atlas)
+    * [Natural Earth](https://www.naturalearthdata.com/)
   * Styles
     * [Sunlight Foundataion Data Visualization Style Guidelines](https://sunlightfoundation.com/2014/03/12/datavizguide/)
-    * [Google Fonts](https://fonts.google.com/)
+    * [Google Fonts](https://fonts.google.com/) 
   * Visualization Examples
     * [Reuters Graphics](https://graphics.reuters.com/)
     * [The Upshot](https://www.nytimes.com/section/upshot)
@@ -100,6 +111,9 @@
     * [Economist Graphic Detail](https://www.economist.com/graphic-detail)
     * [Observable](https://observablehq.com/)
     * [Blockbuilder.org Search](https://blockbuilder.org/search)
+  * Visualization Data
+    * GIS Data Shapefile
+      * [Tennessee GIS Data](https://www.tn.gov/finance/sts-gis/gis/data.html)
 * User Interface Frameworks / Libraries
   * [React.js](https://reactjs.org/)
     * [React Toolbox](http://react-toolbox.io/#/)
@@ -112,3 +126,6 @@
   * [jQuery](https://jquery.com/)
 * Misc
   * [React, Vue, and Svelte as Teen Movie Archetypes - Leta Keane | JSConf Hawaii 2020](https://youtu.be/vEQkgBzunRc?list=PL37ZVnwpeshH-mmcnUNoM7LVyegK27Gm1)
+* NPM Package
+  * [Unpkg](https://unpkg.com/)
+* [CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
