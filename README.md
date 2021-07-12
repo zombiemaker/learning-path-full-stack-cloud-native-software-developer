@@ -116,6 +116,7 @@ As you can see, you can get **A LOT OF MILEAGE** from learning to develop applic
 - [Integrate Continuously Team Changes To Software Source Code](docs/integrate-continuously-team-changes-to-software-source-code.md)
 - [Manage Software Source Code For Integrating Continuously Team Changes To Software Source Code](docs/manage-software-source-code-for-integrating-continuously-team-changes-to-software-source-code.md)
 - [Publish Software Source Code & Documentation](docs/publish-software-source-code-and-documentation.md)
+- [Package Software For Distribution](docs/package-software-for-distribution.md)
 - [Publish Software Distribution Package](docs/publish-software-distribution-package-and-documentation.md)
 - [Automate Software Package Build-Test-Publish Process](docs/automate-software-package-build-test-publish-process.md)
 - [Manage Software Source Code Issues](docs/manage-software-source-code-issues.md)
