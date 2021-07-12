@@ -47,9 +47,12 @@
   * [Beginning Vue.js (Garry Jennings and Andrea Passaglia)](https://learning.oreilly.com/videos/beginning-vue-js/9781789534719/)
   * [Fullstack Enterprise MEVN: Mongo, Express, Vue, and Node (Kati Frantz)](https://learning.oreilly.com/videos/fullstack-enterprise-mevn/9781800202276/)
 
-* Angular.js
+* Angular (TypeScript)
   * [Angular Crash Course (Bharath Thippireddy)](https://learning.oreilly.com/videos/angular-crash-course/9781800209824/)
   * [Modern Web Design Patterns In Angular 8 (David Acosta)](https://learning.oreilly.com/videos/angular-crash-course/9781800209824/)
+
+* AngularJS (JavaScript)
+
 
 * Bootstrap
   * [A Quick Guide To Bootstrap 4 (Laurence Svekis)](https://learning.oreilly.com/videos/a-quick-guide/9781789616415/)
@@ -65,6 +68,10 @@
 
 ## Advanced
 
+* [Building Micro-Frontends (Luca Mezzalira)](https://learning.oreilly.com/library/view/building-micro-frontends/9781492082989/)
+* [Micro Frontends In Action (Michael Geers)](https://learning.oreilly.com/library/view/micro-frontends-in/9781617296871/)
+* [Micro Frontends In Action Video Edition (Michael Geers)](https://learning.oreilly.com/videos/micro-frontends-in/9781617296871VE/)
+* [The Art Of Micro Frontends (Florian Rappl, Lothar Schottner)](https://learning.oreilly.com/library/view/the-art-of/9781800563568/)
 * [Hacking Angular JS Applications (Dawid Czagan)](https://learning.oreilly.com/videos/hacking-angularjs-applications/9781838988340/)
 * [Designing Interfaces, 3rd Edition (Tidwell, Brewer, Valencia) (2020)](https://learning.oreilly.com/library/view/designing-interfaces-3rd/9781492051954/)
 * [Interaction Design, 5th Edition (Sharp, Preece, Rogers) (2019)](https://learning.oreilly.com/library/view/interaction-design-5th/9781119547259/)
@@ -127,6 +134,8 @@
   * [Materialize](https://materializecss.com/)
   * [Bootstrap](https://getbootstrap.com)
   * [jQuery](https://jquery.com/)
+* Micro Frontends
+  * [h-include](https://github.com/gustafnk/h-include)
 * Misc
   * [React, Vue, and Svelte as Teen Movie Archetypes - Leta Keane | JSConf Hawaii 2020](https://youtu.be/vEQkgBzunRc?list=PL37ZVnwpeshH-mmcnUNoM7LVyegK27Gm1)
 * NPM Package
