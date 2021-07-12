@@ -6,7 +6,8 @@
   * [The V8 Engine and Node.js](https://youtu.be/PsDqH_RKvyc)
 
 * Node.js 14
-  * [Your First Week WIth Node.js, 2nd Edition (James Hibbard, etc.)](https://learning.oreilly.com/library/view/your-first-week/9781098122805/)
+  * [Node.js Essentials](https://learning.oreilly.com/videos/node-js-essentials/9780136903888)
+  * [Your First Week With Node.js, 2nd Edition (James Hibbard, etc.)](https://learning.oreilly.com/library/view/your-first-week/9781098122805/)
   * [Node.js: Tools & Skills, 2nd Edition (James Hibbard, etc.)](https://learning.oreilly.com/library/view/nodejs-tools/9781098122836/)
   * [Distributed Systems With Node.js (Thomas Hunter)](https://learning.oreilly.com/library/view/distributed-systems-with/9781492077282/)
   * [Node.js Design Patterns - Third Edition (Mario Casciaro, Luciano Mammino)](https://learning.oreilly.com/library/view/nodejs-design-patterns/9781839214110/)
@@ -17,6 +18,7 @@
   * [RESTful Web API Design With Node.js 12 (Florian Goto)](https://learning.oreilly.com/videos/restful-web-api/9781838648770/)
 * Node.js 10
   * [Node.js Absolute Beginners Guide - Learn Node from Scratch (John Elder)](https://learning.oreilly.com/videos/node-js-absolute-beginners/9781838987961)
+  * [Node.js From Ground Up For Beginners](https://learning.oreilly.com/videos/nodejs-from-ground/9781800563896/)
 * Node.js 8
   * [Node.js in Motion (PJ Evans)](https://learning.oreilly.com/videos/node-js-in-motion/10000MNLV201720/)
   * [The Complete Node.js Developer Course (3rd Edition) (Andrew Mead, Rob Percival) ](https://learning.oreilly.com/videos/the-complete-node-js/9781789955071)
