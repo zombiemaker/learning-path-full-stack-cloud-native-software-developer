@@ -21,19 +21,22 @@
 
 ## Basics
 
+* General
+  * [Front-end Master Class (Shaun Wassell)](https://learning.oreilly.com/videos/front-end-master-class/9780137610068/)
+
 * HTML SVG
   * [Using SVG With CSS3 And HTML5](https://learning.oreilly.com/library/view/using-svg-with/9781491921968/)
   * [Beginning SVG: A Practical Introduction To SVG Using Real-World Examples](https://learning.oreilly.com/library/view/beginning-svg-a/9781484237601/)
   * [Mastering SVG](https://learning.oreilly.com/library/view/mastering-svg/9781788626743/)
   * [D3.js: Complete Developer Data Visualization Guide](https://learning.oreilly.com/videos/d3js-complete-developer/9781800565692)
-  
-
+ 
 * React.js
   * [The Complete React.js and Redux Course - Build Modern Web Apps](https://learning.oreilly.com/videos/the-complete-react/9781789950656/)
   * [ReactJS Fundamentals, 3rd Edition (Charles David Crawford)](https://learning.oreilly.com/videos/reactjs-fundamentals-3rd/9780136612117/)
   * [Hands-On Application Development With React And Bootstrap (Bruce M. Van Horn II)](https://learning.oreilly.com/videos/hands-on-application-development/9781789531381/)
   * [Testing React.js Applications With Jest: A Complete Introduction To Fast, Easy Testing (Gigi Sayfan)](https://learning.oreilly.com/videos/testing-react-js-applications/9781484239803/)
-  * [Full-Stack React](https://learning.oreilly.com/videos/full-stack-react/9780136887294)
+  * [Full-Stack React (Shaun Wassell)](https://learning.oreilly.com/videos/full-stack-react/9780136887294)
+  * [React: Zero To Full-Stack (Shawn Wassell)](https://learning.oreilly.com/videos/react-zero-to/9780137611676)
 
 * Vue.js
   * [Vue JS 2 - The Complete Guide (including Vue Router and Vuex) (Maximilian Schwarzmuller)](https://learning.oreilly.com/videos/vue-js-2/9781788992817/)

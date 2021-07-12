@@ -4,7 +4,6 @@
 
 * General
   * [The V8 Engine and Node.js](https://youtu.be/PsDqH_RKvyc)
-
 * Node.js 14
   * [Node.js Essentials](https://learning.oreilly.com/videos/node-js-essentials/9780136903888)
   * [Your First Week With Node.js, 2nd Edition (James Hibbard, etc.)](https://learning.oreilly.com/library/view/your-first-week/9781098122805/)
@@ -12,6 +11,8 @@
   * [Distributed Systems With Node.js (Thomas Hunter)](https://learning.oreilly.com/library/view/distributed-systems-with/9781492077282/)
   * [Node.js Design Patterns - Third Edition (Mario Casciaro, Luciano Mammino)](https://learning.oreilly.com/library/view/nodejs-design-patterns/9781839214110/)
   * [Node.js Web Development - Fifth Edition (David Herron)](https://learning.oreilly.com/library/view/nodejs-web-development/9781838987572/)
+  * [Web Development With Node And Express, 2nd Edition (Ethan Brown)](https://learning.oreilly.com/library/view/web-development-with/9781492053507)
+  * [Node Cookbook - Fourth Edition (Bethany Griggs)](https://learning.oreilly.com/library/view/node-cookbook-/9781838558758)
 * Node.js 12
   * [NodeJS Made Easy For MEAN Or MERN Stack (Bharath Thippireddy)](https://learning.oreilly.com/videos/nodejs-made-easy/9781801076890/)
   * [A Quick Start Guide To Node.js (Laurence Svekis)](https://learning.oreilly.com/videos/a-quick-start/9781800568952/)
@@ -26,8 +27,11 @@
 
 ## Advanced
 
-  * [Modern Web Development (Dimitris Loukas)](https://learning.oreilly.com/videos/javascript-essentials-for/9781838982676)
-  * [Node.js API Masterclass With Express And MongoDB (Brad Traversy)](https://learning.oreilly.com/videos/node-js-api-masterclass/9781800569638/)
+* [Multithreaded JavaScript (Thomas Hunter, Bryan English)](https://learning.oreilly.com/library/view/multithreaded-javascript/9781098104429)
+* [Modern Web Development (Dimitris Loukas)](https://learning.oreilly.com/videos/javascript-essentials-for/9781838982676)
+* [Node.js API Masterclass With Express And MongoDB (Brad Traversy)](https://learning.oreilly.com/videos/node-js-api-masterclass/9781800569638/)
+* [Node.js For Embedded Systems (Patrick Mulder, Kelsey Breseman)](https://learning.oreilly.com/library/view/nodejs-for-embedded/9781491928981/)
+* [Expert GeoServer (Ben Mearns)](https://learning.oreilly.com/library/view/expert-geoserver/9781789538601/)
 
 ## Resources
 
