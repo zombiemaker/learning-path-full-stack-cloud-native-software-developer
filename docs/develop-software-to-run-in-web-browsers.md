@@ -50,7 +50,6 @@
   * [Gatsby: The Definitive Guide](https://learning.oreilly.com/library/view/gatsby-the-definitive/9781492087502/)
   * [Advanced Gatsby Projects: Create Two Advanced Sites Using Technologies That Compliment Gatsby](https://learning.oreilly.com/library/view/advanced-gatsby-projects/9781484266403/)
 
-
 * Vue.js
   * [Vue JS 2 - The Complete Guide (including Vue Router and Vuex) (Maximilian Schwarzmuller)](https://learning.oreilly.com/videos/vue-js-2/9781788992817/)
   * [Vue.js 2 Academy: Learn Vue Step By Step (Chris Dixon)](https://learning.oreilly.com/videos/vue-js-2-academy/9781838985455/)
@@ -78,6 +77,11 @@
 * Data Visualization
   * [Data Visualization With D3, JavaScript, React Part 1](https://youtu.be/2LhoCfjm8R4)
   * [Data Visualizaiton With D3, JavaScript, React Part 2](https://youtu.be/H2qPeJx1RDI)
+
+* Web Content Management System
+  * [Strapi](https://strapi.io/)
+  * [StrapiConf 2021](https://www.youtube.com/watch?v=yNlxG3tc7Rc&list=PL7Q0DQYATmvidvcf5RYifbKYgSP_7yf2Z)
+
 
 ## Advanced
 
