@@ -37,6 +37,19 @@
   * [Testing React.js Applications With Jest: A Complete Introduction To Fast, Easy Testing (Gigi Sayfan)](https://learning.oreilly.com/videos/testing-react-js-applications/9781484239803/)
   * [Full-Stack React (Shaun Wassell)](https://learning.oreilly.com/videos/full-stack-react/9780136887294)
   * [React: Zero To Full-Stack (Shawn Wassell)](https://learning.oreilly.com/videos/react-zero-to/9780137611676)
+  * [React.js - The Complete Guide (Includes Hooks, React Router, And Redux) 2nd Edition](https://learning.oreilly.com/videos/react-the/9781801812603)
+
+* Next.js
+  * [Next.js](https://nextjs.org/)
+  * [Universal React With Next.js - The Ultimate Guide](https://learning.oreilly.com/videos/universal-react-with/9781839210792/)
+
+* Gatsby.js
+  * [Gatsby](https://www.gatsbyjs.com/)
+  * [Gatsby JS: Build PWA Blog With GraphQL, React And WordPress](https://learning.oreilly.com/videos/gatsby-js-build/9781839217593/)
+  * [Hands-On Web Development With React And Gatsby JS](https://learning.oreilly.com/videos/hands-on-web-development/9781838822767)
+  * [Gatsby: The Definitive Guide](https://learning.oreilly.com/library/view/gatsby-the-definitive/9781492087502/)
+  * [Advanced Gatsby Projects: Create Two Advanced Sites Using Technologies That Compliment Gatsby](https://learning.oreilly.com/library/view/advanced-gatsby-projects/9781484266403/)
+
 
 * Vue.js
   * [Vue JS 2 - The Complete Guide (including Vue Router and Vuex) (Maximilian Schwarzmuller)](https://learning.oreilly.com/videos/vue-js-2/9781788992817/)
@@ -134,8 +147,11 @@
   * [Materialize](https://materializecss.com/)
   * [Bootstrap](https://getbootstrap.com)
   * [jQuery](https://jquery.com/)
-* Micro Frontends
-  * [h-include](https://github.com/gustafnk/h-include)
+* Aesthetic Design
+  * [Google Material](https://material.io/design)
+  * [Twitter Bootstrap](https://getbootstrap.com/)
+  * [Semantic UI](https://semantic-ui.com/)
+  * [Blueprint](https://blueprintjs.com/)
 * Misc
   * [React, Vue, and Svelte as Teen Movie Archetypes - Leta Keane | JSConf Hawaii 2020](https://youtu.be/vEQkgBzunRc?list=PL37ZVnwpeshH-mmcnUNoM7LVyegK27Gm1)
 * NPM Package

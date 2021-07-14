@@ -7,6 +7,7 @@
   * [The Modern JavaScript Bootcamp (2019) (Andrew Mead)](https://learning.oreilly.com/videos/the-modern-javascript/9781838983734/)
   * [Modern JavaScript for the Impatient (Cay S. Horstmann)](https://learning.oreilly.com/videos/modern-javascript-for/9780135812778)
   * [JavaScript Bible - JavaScript and ES6 Bootcamp 2019 (Bogdan Stashchulk)](https://learning.oreilly.com/videos/javascript-bible/9781839211782)
+  * [JavaScript Next: Your Complete Guide To the New Features Introduced In JavaScript, Starting From ES6 To ES9](https://learning.oreilly.com/library/view/javascript-next-your/9781484253946/)
 
 ## Advanced
 
