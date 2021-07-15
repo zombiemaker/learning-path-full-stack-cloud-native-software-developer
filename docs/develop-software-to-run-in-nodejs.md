@@ -2,8 +2,6 @@
 
 ## Basics
 
-* General
-  * [The V8 Engine and Node.js](https://youtu.be/PsDqH_RKvyc)
 * Node.js 14
   * [Node.js Essentials](https://learning.oreilly.com/videos/node-js-essentials/9780136903888)
   * [Your First Week With Node.js, 2nd Edition (James Hibbard, etc.)](https://learning.oreilly.com/library/view/your-first-week/9781098122805/)
@@ -118,8 +116,8 @@ Observability Tools
   * [ELK Stack](https://www.elastic.co/what-is/elk-stack)
 * Metrics measurements
   * [StatsD](https://github.com/statsd/statsd) + [Graphite](https://github.com/graphite-project) + [Grafana](https://grafana.com/)
-  * Prometheus + Grafana
-  * Telgraf + InfluxDB + Grafana
+  * Prometheus + [Grafana](https://grafana.com/)
+  * [Telgraf](https://www.influxdata.com/time-series-platform/telegraf/) + [InfluxDB](https://www.influxdata.com/products/influxdb/) + [Grafana](https://grafana.com/)
 * Distributed request tracing
   * [Zipkin](https://zipkin.io/)
   * [Jaeger](https://www.jaegertracing.io/)
