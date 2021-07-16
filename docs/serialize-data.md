@@ -3,6 +3,7 @@
 - [Serialize Data In JSON Format](serialize-data-in-json-format.md)
 - [Serialize Data In JSON-LD Format](serialize-data-in-json-ld-format.md)
 - [Serialize Data In HTML Format](serialize-data-in-html-format.md)
+- [Serialize Data In HTML + RDFa Format](serialize-data-in-html-format.md)
 - [Serialize Data In XML Format](serialize-data-in-xml-format.md)
 - [Serialize Data In EXI Format](serialize-data-in-exi-format.md)
 - [Serialize Data In Protocol Buffers Format](serialize-data-in-protocol-buffers-format.md)

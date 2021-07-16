@@ -16,3 +16,4 @@ Route client request traffic to the IP
 ## Resources
 
 * [Apache Traffic Control](https://trafficcontrol.apache.org/)
+* [Polaris Global Server Load Balancer](https://github.com/polaris-gslb/polaris-gslb)

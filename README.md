@@ -158,6 +158,7 @@ As you can see, you can get **A LOT OF MILEAGE** from learning to develop applic
 - [Manage Software Releases](docs/manage-software-releases.md)
 - [Manage Software Distribution](docs/manage-software-distribution.md)
 - [Deliver Software Changes Continuously](docs/deliver-software-changes-continuously.md)
+- [Deveolo Remote APIs For Providing Linked Data](docs/develop-remote-apis-for-providing-linked-data.md)
 - [Develop Remote APIs For Providing Event Streams](docs/develop-remote-apis-for-providing-event-streams.md)
 - [Develop Clients To Remote APIs For Consuming Event Streams](docs/develop-clients-to-remote-apis-for-consuming-event-streams.md)
 - [Develop Open Source Software](docs/develop-open-source-software.md)

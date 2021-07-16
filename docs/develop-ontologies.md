@@ -1,7 +1,18 @@
 # Develop Ontologies
 
+## Machine Readable Knowledge Representation Annotations
+
+* RDFa (RDF in Attributes)
+* HTML5 Microdata
+* JSON-LD
+
+## JSON-LD (JSON For Linking Data)
+
+* [JSON-LD Site](https://json-ld.org/)
+
 ## Resources
 
+* [W3C Semantic Web Publications](w3c-semantic-web-publications.md)
 * [BFO Tutorial (2019): Part 2 Why Ontologies Fail](https://youtu.be/w5d5KmBqw3w?list=PLyngZgIl3WTj6tWcypTLpCnYXu6o93kD4)
 
 ## Basic Formal Ontology
