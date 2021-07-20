@@ -2,7 +2,9 @@
 
 ## W3C General
 * [W3C A Semantic Web Primer For Object-Oriented Software Developers](https://www.w3.org/TR/2006/NOTE-sw-oosd-primer-20060309/)
-* [W3C Defining N-ary Relations ON The Semantic Web](https://www.w3.org/TR/2006/NOTE-swbp-n-aryRelations-20060412/)
+* [W3C Cool URIs For The Semantic Web](https://www.w3.org/TR/cooluris/)
+* [W3C URNs, Namespaces And Registries](https://www.w3.org/2001/tag/doc/URNsAndRegistries-50-2006-08-17.html)
+* [W3C Defining N-ary Relations On The Semantic Web](https://www.w3.org/TR/2006/NOTE-swbp-n-aryRelations-20060412/)
 * [W3C Content Negotiation By Profile](https://www.w3.org/TR/2019/WD-dx-prof-conneg-20191126/)
 * [W3C Strings On The Web: Language & Direction Metadata](https://www.w3.org/TR/2019/WD-string-meta-20190611/)
 * [W3C Embedding Metadata In HTML](https://www.w3.org/Search/9605-Indexing-Workshop/ReportOutcomes/S6Group2)
@@ -158,3 +160,21 @@
 * [W3C GRDDL Primer](https://www.w3.org/TR/2007/NOTE-grddl-primer-20070628/)
 * [W3C GRDDL Test Cases](https://www.w3.org/TR/2007/REC-grddl-tests-20070911/)
 * [W3C GRDDL Use Cases: Scenarios Of Extracting RDF Data From XML Documents](https://www.w3.org/TR/2007/NOTE-grddl-scenarios-20070406/)  
+
+## W3C Related Publications
+
+* [Architecture Of The World Wide Web](https://www.w3.org/TR/webarch/)
+
+
+## HTTP Response Header
+
+* Location with URL to a web document that describes the resource referred to by the URL (IRI)
+
+## HTTP Response Code
+
+* 303 to refer
+
+## HTTP Content Types
+
+* text/html
+* application/rdf+xml
