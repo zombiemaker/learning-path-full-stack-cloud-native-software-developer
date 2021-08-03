@@ -1,0 +1,18 @@
+# Develop Application Systems For Specific Types Of Capabilities
+
+- [Develop Application Systems For Searching Distributed Information Resources](docs/develop-application-systems-for-searching-distributed-information-resources.md)
+- [Develop Application Systems For Generating Event Streams](/docs/develop-application-systems-for-generating-event-streams.md)
+- [Develop Application Systems For Receiving Event Streams](/docs/develop-application-systems-for-receiving-event-streams.md)
+- [Develop Application Systems For Processing Big Data](docs/develop-application-systems-for-processing-big-data.md)
+- [Develop Application Systems For Processing Near Real Time Fast Data](docs/develop-application-systems-for-processing-near-real-time-fast-data.md)
+- [Develop Application Systems For Decentralizing Trust Among Multiple Parties](docs/develop-application-systems-for-decentralizing-trust-among-multiple-parties.md)
+- [Develop Application Systems For Augmenting Reality](docs/develop-application-systems-for-augmenting-reality.md)
+- [Develop Application Systems For Sensing Signals From IoT Devices](docs/develop-software-for-sensing-signals-from-iot-devices.md)
+- [Develop Application Systems For Controlling Actions Of IoT Devices](docs/develop-software-for-controlling-actions-of-iot-devices.md)
+- [Develop Application Systems For Machine Learning](docs/develop-application-systems-for-machine-learning.md)
+- [Develop Application Systems For Grouping Things In Near Real Time](docs/develop-application-systems-for-grouping-things-in-near-real-time.md)
+- [Develop Application Systems For Classifying Things In Near Real Time](docs/develop-application-systems-for-classifying-things-in-near-real-time.md)
+- [Develop Application Systems For Predicting Things In Near Real Time](docs/develop-application-systems-for-predicting-things-in-near-real-time.md)
+- [Develop Application Systems For Deciding Things In Near Real Time](docs/develop-application-systems-for-deciding-things-in-near-real-time.md)
+- [Develop Application Systems For Responding To Past Events In Near Real Time](docs/develop-application-systems-for-responding-to-past-events-in-near-real-time.md)
+- [Develop Application Systems For Shaping Future Events In Near Real Time](docs/develop-application-systems-for-shaping-future-events-in-near-real-time.md)
