@@ -96,6 +96,7 @@ As you can see, you can get **A LOT OF MILEAGE** from learning to develop applic
 - [Develop Software To Run On Specific Compute Platforms](develop-software-to-run-in-specific-compute-platforms.md)
 - [Develop Software To Run Anywhere Using WebAssembly](docs/develop-software-to-run-anywhere-using-webassembly.md)
 - [Test JavaScript Software](docs/test-javascript-software.md)
+- [Automate Testing Of Software](docs/automate-testing-of-software.md)
 - [Document Software](docs/document-software.md)
 - [Publish Software Source Code & Documentation](docs/publish-software-source-code-and-documentation.md)
 - [Package Software For Distribution](docs/package-software-for-distribution.md)
@@ -107,23 +108,41 @@ As you can see, you can get **A LOT OF MILEAGE** from learning to develop applic
 - [Publish Software Container Image Source Code & Documentation](docs/publish-software-container-image-source-code-and-documentation.md)
 - [Publish Software Container Image & Documentation](docs/publish-software-container-image-and-documentation.md)
 - [Manage Software Container Image Source Code Issues](docs/manage-software-container-image-source-code-issues.md)
+- [Automate Software Container Image Build-Test-Publish Process](docs/automate-software-container-image-build-test-publish-process.md)
 - [Develop Software With Feature Toggles / Flags](docs/develop-software-with-feature-toggles-flags.md)
 - [Develop Software With Instrumentation For Observability](docs/develop-software-with-instrumentation-for-observability.md)
 - [Develop Software As A Geographically Distributed Team](docs/develop-software-as-a-geographically-distributed-team.md)
 - [Integrate Continuously Team Changes To Software Source Code](docs/integrate-continuously-team-changes-to-software-source-code.md)
 - [Manage Software Source Code For Integrating Continuously Team Changes To Software Source Code](docs/manage-software-source-code-for-integrating-continuously-team-changes-to-software-source-code.md)
-- [Automate Software Container Image Build-Test-Publish Process](docs/automate-software-container-image-build-test-publish-process.md)
+- [Manage Software Supply Chain](docs/manage-software-supply-chain.md)
+- [Manage Software Releases](docs/manage-software-releases.md)
+- [Manage Software Distribution](docs/manage-software-distribution.md)
+- [Deliver Software Changes Continuously](docs/deliver-software-changes-continuously.md)
+
+
+Software Technology Features & Capabilities
+
 - [Serialize Data](docs/serialize-data.md)
+- [Store State](docs/store-state.md)
+- [Store State Changes](docs/store-state-changes.md)
+
+
+
+Software Architecture & Design
+
+- [Develop Remote APIs For Providing Linked Data](docs/develop-remote-apis-for-providing-linked-data.md)
+- [Develop Remote APIs For Providing Event Streams](docs/develop-remote-apis-for-providing-event-streams.md)
+- [Develop Clients To Remote APIs For Consuming Event Streams](docs/develop-clients-to-remote-apis-for-consuming-event-streams.md)
+
+- [Develop Application System Using Distributed Software Architecture](docs/develop-application-system-using-distributed-software-architecture.md)
+- [Orchestrate Process Containers](docs/orchestrate-process-containers.md)
+- [Develop Containerized Application Systems](docs/develop-containerized-application-systems.md)
+
+
 - [Develop Software Conforming To Generally Accepted Standards](docs/develop-software-conforming-to-generally-accepted-standards.md)
-- [Distribute TCP / UDP Traffic Load By Reverse Proxy](docs/distribute-traffic-load-by-reverse-proxy.md)
-- [Route HTTP Traffic By URL Path](docs/route-http-traffic-by-url-path.md)
-- [Route Application Traffic By DNS](docs/route-application-traffic-by-dns.md)
 - [Design Software Application System](docs/design-software-application-system.md)
 - [Develop Digital Services](docs/develop-digital-services.md)
 - [Develop Remote Application Programming Interfaces (APIs)](docs/develop-remote-apis.md)
-- [Automate Testing Of Software Component Remote APIs](docs/automate-testing-of-software-component-remote-apis.md)
-- [Automate Testing Of Interactions Between Software Components](docs/automate-testing-of-interactions-between-software-components.md)
-- [Automate Testing Of End-to-End Application System Behavior](docs/automate-testing-of-end-to-end-application-system.md)
 - [Authenticate & Authorize](docs/authenticate-and-authorize.md)
 - [Model Information Semantics Using Resource Description Framework (RDF), RDFS, RDFa & OWL](docs/model-information-semantics-using-rdf-rdfs-rdfa-and-owl.md)
 - [Develop Linked Data Information Resource Interfaces](docs/develop-linked-data-information-resource-interfaces.md)
@@ -132,23 +151,19 @@ As you can see, you can get **A LOT OF MILEAGE** from learning to develop applic
 - [Distribute Load From Remote Requests Across Multiple Execution Instances](docs/distribute-load-from-remote-requests-across-multiple-execution-instances.md)
 - [Manage Application Data With Database Management Systems (DBMS)](docs/manage-application-data-with-database-management-system.md)
 - [Model Application Data](docs/model-application-data.md)
-- [Store State](docs/store-state.md)
-- [Store State Changes](docs/store-state-changes.md)
 - [Store Data In Object Storage Systems](docs/store-data-in-object-storage-systems.md)
 - [Separate Command & Query Request Processing](docs/separate-command-and-query-request-processing.md)
-- [Drive Development Of Software Features Based On Community Feedback](doc/drive-development-of-software-features-based-on-community-feedback.md)
-- [Develop Software Features With Agility](docs/develop-software-features-with-agility.md)
-- [Manage Software Supply Chain](docs/manage-software-supply-chain.md)
-- [Manage Software Releases](docs/manage-software-releases.md)
-- [Manage Software Distribution](docs/manage-software-distribution.md)
-- [Deliver Software Changes Continuously](docs/deliver-software-changes-continuously.md)
-- [Deveolo Remote APIs For Providing Linked Data](docs/develop-remote-apis-for-providing-linked-data.md)
-- [Develop Remote APIs For Providing Event Streams](docs/develop-remote-apis-for-providing-event-streams.md)
-- [Develop Clients To Remote APIs For Consuming Event Streams](docs/develop-clients-to-remote-apis-for-consuming-event-streams.md)
-- [Develop Open Source Software](docs/develop-open-source-software.md)
-- [Develop Application System Using Distributed Software Architecture](docs/develop-application-system-using-distributed-software-architecture.md)
-- [Orchestrate Process Containers](docs/orchestrate-process-containers.md)
-- [Develop Containerized Application Systems](docs/develop-containerized-application-systems.md)
+
+Application System Architecture & Design
+- [Distribute TCP / UDP Traffic Load By Reverse Proxy](docs/distribute-traffic-load-by-reverse-proxy.md)
+- [Route HTTP Traffic By URL Path](docs/route-http-traffic-by-url-path.md)
+- [Route Application Traffic By DNS](docs/route-application-traffic-by-dns.md)
+- [Distribute Data](docs/distribute-data.md)
+- [Develop Application Systems For Specific Types Of Capabilities](develop-application-systems-for-specific-types-of-capabilities.md)
+- [Develop Application Systems That Support Multi Active Region Deployments](docs/develop-application-systems-that-support-multi-active-region-deployments.md)
+- [Develop Application Systems That Support Multiple User Tenants](docs/develop-application-systems-that-support-multiple-user-tenants.md)
+
+Application System Operations
 - [Trace End-to-End Interactions Of Distributed Software Components](docs/trace-end-to-end-interactions-of-distributed-software-components.md)
 - [Provision Software-Defined Resources](docs/provision-software-defined-resources.md)
 - [Automate Provisioning Of Software-Defined Resources](docs/automate-provisioning-of-software-defined-resources.md)
@@ -158,10 +173,14 @@ As you can see, you can get **A LOT OF MILEAGE** from learning to develop applic
 - [Automate Software Change Deployments With GitOps](docs/automate-software-change-deployments-with-gitops.md)
 - [Manage Secrets Required To Access Services For Application System Deployments](docs/manage-secrets-required-to-access-services-for-application-system-deploymnents.md)
 - [Manage Secrets Required To Access Services For Application System Operations](docs/manage-secrets-required-to-access-services-for-application-system-operations.md)
+
+
+Software Development Community
+- [Develop Software Features With Agility](docs/develop-software-features-with-agility.md)
 - [Increase Flow Of Changes From Development To Operations](docs/increase-flow-of-changes-from-development-to-operations.md)
 - [Streamline Human Collaboration With ChatOps](docs/streamline-human-collaboration-with-chatops.md)
-- [Distribute Data](docs/distribute-data.md)
+- [Drive Development Of Software Features Based On Community Feedback](doc/drive-development-of-software-features-based-on-community-feedback.md)
+- [Develop Open Source Software](docs/develop-open-source-software.md)
+
+
 - [Integrate Digitized Information Into A Knowledge Graph](docs/integrate-digitized-information-into-a-knowledge-graph.md)
-- [Develop Application Systems For Specific Types Of Capabilities](develop-application-systems-for-specific-types-of-capabilities.md)
-- [Develop Application Systems That Support Multi Active Region Deployments](docs/develop-application-systems-that-support-multi-active-region-deployments.md)
-- [Develop Application Systems That Support Multiple User Tenants](docs/develop-application-systems-that-support-multiple-user-tenants.md)
