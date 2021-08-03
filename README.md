@@ -174,8 +174,6 @@ As you can see, you can get **A LOT OF MILEAGE** from learning to develop applic
 - [Automate Software Change Deployments With GitOps](docs/automate-software-change-deployments-with-gitops.md)
 - [Manage Secrets Required To Access Services For Application System Deployments](docs/manage-secrets-required-to-access-services-for-application-system-deploymnents.md)
 - [Manage Secrets Required To Access Services For Application System Operations](docs/manage-secrets-required-to-access-services-for-application-system-operations.md)
-- [Automate Provisioning Of Internet Domain Names For Application System Deployments On Public Cloud Platforms](automate-provisioning-of-internet-domain-names-for-application-system-deployments-on-public-cloud-platforms.md)
-- [Automate Provisioning Of TLS Certificates For Application System Deployments On Public Cloud Platforms](automate-provisioning-of-tls-certificates-for-application-system-deployments-on-public-cloud-platforms.md)
 - [Increase Flow Of Changes From Development To Operations](docs/increase-flow-of-changes-from-development-to-operations.md)
 - [Streamline Human Collaboration With ChatOps](docs/streamline-human-collaboration-with-chatops.md)
 - [Distribute Data](docs/distribute-data.md)
