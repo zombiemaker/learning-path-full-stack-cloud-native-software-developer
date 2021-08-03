@@ -119,42 +119,41 @@ As you can see, you can get **A LOT OF MILEAGE** from learning to develop applic
 - [Manage Software Distribution](docs/manage-software-distribution.md)
 - [Deliver Software Changes Continuously](docs/deliver-software-changes-continuously.md)
 
-
 Software Technology Features & Capabilities
-
+- [Authenticate & Authorize](docs/authenticate-and-authorize.md)
+- [Model Information Semantics Using Resource Description Framework (RDF), RDFS, RDFa & OWL](docs/model-information-semantics-using-rdf-rdfs-rdfa-and-owl.md)
+- [Model Application Data](docs/model-application-data.md)
 - [Serialize Data](docs/serialize-data.md)
 - [Store State](docs/store-state.md)
 - [Store State Changes](docs/store-state-changes.md)
-
-
+- [Store Data In Object Storage Systems](docs/store-data-in-object-storage-systems.md)
+- [Manage Application Data With Database Management Systems (DBMS)](docs/manage-application-data-with-database-management-system.md)
+- [Separate Command & Query Request Processing](docs/separate-command-and-query-request-processing.md)
 
 Software Architecture & Design
-
+- [Design Software Application System](docs/design-software-application-system.md)
+- [Use Remote Application Programming Interfaces (APIs)](docs/use-remote-apis.md)
+- [Develop Remote Application Programming Interfaces (APIs)](docs/develop-remote-apis.md)
 - [Develop Remote APIs For Providing Linked Data](docs/develop-remote-apis-for-providing-linked-data.md)
 - [Develop Remote APIs For Providing Event Streams](docs/develop-remote-apis-for-providing-event-streams.md)
 - [Develop Clients To Remote APIs For Consuming Event Streams](docs/develop-clients-to-remote-apis-for-consuming-event-streams.md)
-
-- [Develop Application System Using Distributed Software Architecture](docs/develop-application-system-using-distributed-software-architecture.md)
-- [Orchestrate Process Containers](docs/orchestrate-process-containers.md)
-- [Develop Containerized Application Systems](docs/develop-containerized-application-systems.md)
-
-
-- [Develop Software Conforming To Generally Accepted Standards](docs/develop-software-conforming-to-generally-accepted-standards.md)
-- [Design Software Application System](docs/design-software-application-system.md)
 - [Develop Digital Services](docs/develop-digital-services.md)
-- [Develop Remote Application Programming Interfaces (APIs)](docs/develop-remote-apis.md)
-- [Authenticate & Authorize](docs/authenticate-and-authorize.md)
-- [Model Information Semantics Using Resource Description Framework (RDF), RDFS, RDFa & OWL](docs/model-information-semantics-using-rdf-rdfs-rdfa-and-owl.md)
 - [Develop Linked Data Information Resource Interfaces](docs/develop-linked-data-information-resource-interfaces.md)
 - [Develop Semantically Queryable Interfaces](docs/develop-semantically-queryable-interfaces.md)
-- [Use Remote Application Programming Interfaces (APIs)](docs/use-remote-apis.md)
-- [Distribute Load From Remote Requests Across Multiple Execution Instances](docs/distribute-load-from-remote-requests-across-multiple-execution-instances.md)
-- [Manage Application Data With Database Management Systems (DBMS)](docs/manage-application-data-with-database-management-system.md)
-- [Model Application Data](docs/model-application-data.md)
-- [Store Data In Object Storage Systems](docs/store-data-in-object-storage-systems.md)
-- [Separate Command & Query Request Processing](docs/separate-command-and-query-request-processing.md)
+- [Develop Application System Using Distributed Software Architecture](docs/develop-application-system-using-distributed-software-architecture.md)
+- [Develop Containerized Application Systems](docs/develop-containerized-application-systems.md)
+- [Orchestrate Process Containers](docs/orchestrate-process-containers.md)
+- [Develop Software Conforming To Generally Accepted Standards](docs/develop-software-conforming-to-generally-accepted-standards.md)
+
+Software Development Community
+- [Develop Software Features With Agility](docs/develop-software-features-with-agility.md)
+- [Increase Flow Of Changes From Development To Operations](docs/increase-flow-of-changes-from-development-to-operations.md)
+- [Streamline Human Collaboration With ChatOps](docs/streamline-human-collaboration-with-chatops.md)
+- [Drive Development Of Software Features Based On Community Feedback](doc/drive-development-of-software-features-based-on-community-feedback.md)
+- [Develop Open Source Software](docs/develop-open-source-software.md)
 
 Application System Architecture & Design
+- [Distribute Load From Remote Requests Across Multiple Execution Instances](docs/distribute-load-from-remote-requests-across-multiple-execution-instances.md)
 - [Distribute TCP / UDP Traffic Load By Reverse Proxy](docs/distribute-traffic-load-by-reverse-proxy.md)
 - [Route HTTP Traffic By URL Path](docs/route-http-traffic-by-url-path.md)
 - [Route Application Traffic By DNS](docs/route-application-traffic-by-dns.md)
@@ -174,13 +173,5 @@ Application System Operations
 - [Manage Secrets Required To Access Services For Application System Deployments](docs/manage-secrets-required-to-access-services-for-application-system-deploymnents.md)
 - [Manage Secrets Required To Access Services For Application System Operations](docs/manage-secrets-required-to-access-services-for-application-system-operations.md)
 
-
-Software Development Community
-- [Develop Software Features With Agility](docs/develop-software-features-with-agility.md)
-- [Increase Flow Of Changes From Development To Operations](docs/increase-flow-of-changes-from-development-to-operations.md)
-- [Streamline Human Collaboration With ChatOps](docs/streamline-human-collaboration-with-chatops.md)
-- [Drive Development Of Software Features Based On Community Feedback](doc/drive-development-of-software-features-based-on-community-feedback.md)
-- [Develop Open Source Software](docs/develop-open-source-software.md)
-
-
+Application System Landscape Architecture & Design
 - [Integrate Digitized Information Into A Knowledge Graph](docs/integrate-digitized-information-into-a-knowledge-graph.md)
