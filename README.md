@@ -150,17 +150,16 @@ As you can see, you can get **A LOT OF MILEAGE** from learning to develop applic
 - [Develop Software Conforming To Generally Accepted Standards](docs/develop-software-conforming-to-generally-accepted-standards.md)
 
 ### Software Development Community
+- [Drive Development Of Software Features Based On Community Feedback](doc/drive-development-of-software-features-based-on-community-feedback.md)
 - [Develop Software Features With Agility](docs/develop-software-features-with-agility.md)
 - [Increase Flow Of Changes From Development To Operations](docs/increase-flow-of-changes-from-development-to-operations.md)
 - [Streamline Human Collaboration With ChatOps](docs/streamline-human-collaboration-with-chatops.md)
-- [Drive Development Of Software Features Based On Community Feedback](doc/drive-development-of-software-features-based-on-community-feedback.md)
 - [Develop Open Source Software](docs/develop-open-source-software.md)
 
 ### Application System Architecture & Design
-- [Distribute Load From Remote Requests Across Multiple Execution Instances](docs/distribute-load-from-remote-requests-across-multiple-execution-instances.md)
-- [Distribute TCP / UDP Traffic Load By Reverse Proxy](docs/distribute-traffic-load-by-reverse-proxy.md)
-- [Route HTTP Traffic By URL Path](docs/route-http-traffic-by-url-path.md)
 - [Route Application Traffic By DNS](docs/route-application-traffic-by-dns.md)
+- [Route HTTP Traffic By URL Path](docs/route-http-traffic-by-url-path.md)
+- [Distribute Load From Remote Requests Across Multiple Execution Instances](docs/distribute-load-from-remote-requests-across-multiple-execution-instances.md)
 - [Distribute Data](docs/distribute-data.md)
 - [Develop Application Systems For Specific Types Of Capabilities](develop-application-systems-for-specific-types-of-capabilities.md)
 - [Develop Application Systems That Support Multi Active Region Deployments](docs/develop-application-systems-that-support-multi-active-region-deployments.md)
