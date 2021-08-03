@@ -5,7 +5,6 @@
 - [Develop Software To Run In Web Browsers](docs/develop-software-to-run-in-web-browsers.md)
 - [Develop Software To Run In Node.js](docs/develop-software-to-run-in-nodejs.md)
 - [Develop Software To Run In React Native](docs/develop-software-to-run-in-react-native.md)
-- [Develop Software To Run In Linux Containers](docs/develop-software-to-run-in-linux-containers.md)
 - [Develop Software To Run In Electron](docs/develop-software-to-run-in-electron.md)
 - [Develop Software To Run In Deno](docs/develop-software-to-run-in-deno.md)
 - [Develop Software To Run In GraalVM](docs/develop-software-to-run-in-graalvm.md)
