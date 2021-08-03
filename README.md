@@ -73,9 +73,12 @@ As you can see, you can get **A LOT OF MILEAGE** from learning to develop applic
 
 ## Learning Path
 
+### Setup
 - [Setup Workstation](docs/setup-workstation.md)
 - [Setup Accounts At Cloud Services](docs/setup-accounts-at-cloud-services.md)
 - [Tools For Developing Software In JavaScript](docs/tools-for-developing-software-in-javascript.md)
+
+### General Context
 - [Create Virtual Machines On Local Workstation](docs/create-virtual-machines-on-local-workstation.md)
 - [Operate Linux Machines](docs/operate-linux-machines.md)
 - [Develop Linux Shell Scripts](docs/develop-linux-shell-scripts.md)
@@ -88,6 +91,8 @@ As you can see, you can get **A LOT OF MILEAGE** from learning to develop applic
 - [Secure Distributed Application-to-Application Communications With TLS](docs/secure-distributed-application-to-application-communications-with-tls.md)
 - [Isolate Processes With Docker Linux Containers](docs/isolate-processes-with-docker-linux-containers.md)
 - [Orchestrate Process Containers](docs/orchestrate-process-containers.md)
+
+### Software Development
 - [Manage Software Versions With Git & GitHub](docs/manage-software-versions-with-git-and-github.md)
 - [Structure Web Pages With HTML & CSS](docs/structure-web-pages-with-html-and-css.md)
 - [Develop Software In JavaScript / ECMAScript](docs/develop-software-in-javascript-ecmascript.md)
@@ -119,7 +124,7 @@ As you can see, you can get **A LOT OF MILEAGE** from learning to develop applic
 - [Manage Software Distribution](docs/manage-software-distribution.md)
 - [Deliver Software Changes Continuously](docs/deliver-software-changes-continuously.md)
 
-Software Technology Features & Capabilities
+### Software Technology Features & Capabilities
 - [Authenticate & Authorize](docs/authenticate-and-authorize.md)
 - [Model Information Semantics Using Resource Description Framework (RDF), RDFS, RDFa & OWL](docs/model-information-semantics-using-rdf-rdfs-rdfa-and-owl.md)
 - [Model Application Data](docs/model-application-data.md)
@@ -130,7 +135,7 @@ Software Technology Features & Capabilities
 - [Manage Application Data With Database Management Systems (DBMS)](docs/manage-application-data-with-database-management-system.md)
 - [Separate Command & Query Request Processing](docs/separate-command-and-query-request-processing.md)
 
-Software Architecture & Design
+### Software Architecture & Design
 - [Design Software Application System](docs/design-software-application-system.md)
 - [Use Remote Application Programming Interfaces (APIs)](docs/use-remote-apis.md)
 - [Develop Remote Application Programming Interfaces (APIs)](docs/develop-remote-apis.md)
@@ -142,17 +147,16 @@ Software Architecture & Design
 - [Develop Semantically Queryable Interfaces](docs/develop-semantically-queryable-interfaces.md)
 - [Develop Application System Using Distributed Software Architecture](docs/develop-application-system-using-distributed-software-architecture.md)
 - [Develop Containerized Application Systems](docs/develop-containerized-application-systems.md)
-- [Orchestrate Process Containers](docs/orchestrate-process-containers.md)
 - [Develop Software Conforming To Generally Accepted Standards](docs/develop-software-conforming-to-generally-accepted-standards.md)
 
-Software Development Community
+### Software Development Community
 - [Develop Software Features With Agility](docs/develop-software-features-with-agility.md)
 - [Increase Flow Of Changes From Development To Operations](docs/increase-flow-of-changes-from-development-to-operations.md)
 - [Streamline Human Collaboration With ChatOps](docs/streamline-human-collaboration-with-chatops.md)
 - [Drive Development Of Software Features Based On Community Feedback](doc/drive-development-of-software-features-based-on-community-feedback.md)
 - [Develop Open Source Software](docs/develop-open-source-software.md)
 
-Application System Architecture & Design
+### Application System Architecture & Design
 - [Distribute Load From Remote Requests Across Multiple Execution Instances](docs/distribute-load-from-remote-requests-across-multiple-execution-instances.md)
 - [Distribute TCP / UDP Traffic Load By Reverse Proxy](docs/distribute-traffic-load-by-reverse-proxy.md)
 - [Route HTTP Traffic By URL Path](docs/route-http-traffic-by-url-path.md)
@@ -162,7 +166,7 @@ Application System Architecture & Design
 - [Develop Application Systems That Support Multi Active Region Deployments](docs/develop-application-systems-that-support-multi-active-region-deployments.md)
 - [Develop Application Systems That Support Multiple User Tenants](docs/develop-application-systems-that-support-multiple-user-tenants.md)
 
-Application System Operations
+### Application System Operations
 - [Trace End-to-End Interactions Of Distributed Software Components](docs/trace-end-to-end-interactions-of-distributed-software-components.md)
 - [Provision Software-Defined Resources](docs/provision-software-defined-resources.md)
 - [Automate Provisioning Of Software-Defined Resources](docs/automate-provisioning-of-software-defined-resources.md)
@@ -173,5 +177,5 @@ Application System Operations
 - [Manage Secrets Required To Access Services For Application System Deployments](docs/manage-secrets-required-to-access-services-for-application-system-deploymnents.md)
 - [Manage Secrets Required To Access Services For Application System Operations](docs/manage-secrets-required-to-access-services-for-application-system-operations.md)
 
-Application System Landscape Architecture & Design
+### Application System Landscape Architecture & Design
 - [Integrate Digitized Information Into A Knowledge Graph](docs/integrate-digitized-information-into-a-knowledge-graph.md)
