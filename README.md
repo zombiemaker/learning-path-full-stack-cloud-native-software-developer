@@ -78,7 +78,7 @@ As you can see, you can get **A LOT OF MILEAGE** from learning to develop applic
 - [Setup Accounts At Cloud Services](docs/setup-accounts-at-cloud-services.md)
 - [Tools For Developing Software In JavaScript](docs/tools-for-developing-software-in-javascript.md)
 
-### General Context
+### General Technology Background
 - [Create Virtual Machines On Local Workstation](docs/create-virtual-machines-on-local-workstation.md)
 - [Operate Linux Machines](docs/operate-linux-machines.md)
 - [Develop Linux Shell Scripts](docs/develop-linux-shell-scripts.md)
@@ -166,6 +166,7 @@ As you can see, you can get **A LOT OF MILEAGE** from learning to develop applic
 - [Develop Application Systems That Support Multiple User Tenants](docs/develop-application-systems-that-support-multiple-user-tenants.md)
 
 ### Application System Operations
+- [Verify Continuously Application System Resiliency](docs/verify-continuously-application-system-resiliency.md)
 - [Trace End-to-End Interactions Of Distributed Software Components](docs/trace-end-to-end-interactions-of-distributed-software-components.md)
 - [Provision Software-Defined Resources](docs/provision-software-defined-resources.md)
 - [Automate Provisioning Of Software-Defined Resources](docs/automate-provisioning-of-software-defined-resources.md)
