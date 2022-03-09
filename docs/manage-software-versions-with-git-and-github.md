@@ -15,6 +15,19 @@ GitHub
 * [Git and GitHub: The Complete Git and GitHub Course (George Lomidze)](https://learning.oreilly.com/videos/learn-git-in/9781789348231)
 * [Learning GitHub](https://learning.oreilly.com/videos/learning-github/9781771374835)
 
+## Source Code Repository Structures
+
+Mono-Repo vs Multi-Repo Structures
+* [Mono-Repo vs Multi-Repo: Throwing Light On Code Repository Strategies](https://geekflare.com/code-repository-strategies/)
+* Repo per application system
+* Repo per application system runtime service process
+* Repo per application system service client programming API (e.g., HTTP REST client API, Java client API, JavaScript client API, C# client API, etc.)
+* Repo per application system deployment template source code
+* Repo per application system deployment instance source code
+* Repo per application system platform resource deployment template source code
+* Repo per application system platform resource deployment instance source code
+
+
 ## Resources
 
 * [Git for Windows](https://git-scm.com/downloads)

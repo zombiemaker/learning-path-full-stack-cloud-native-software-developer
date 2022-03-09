@@ -37,3 +37,28 @@ Kubernetes Deployment
 * [Scaling Containers With Multicluster GKE And Istio (Christopher Grant)](https://learning.oreilly.com/videos/scaling-containers-with/0636920362548)
 * [Kubernetes And The Data Center At DigitalOcean (Andrew Kim)](https://learning.oreilly.com/videos/kubernetes-and-the/0636920459897/)
 * [Lightweight Kubernetes With K3s (Walter Dolce,Sangam Biradar)](https://learning.oreilly.com/videos/lightweight-kubernetes-with/9781838821173/)
+
+## Kubernetes Distributions
+
+* [Canonical MicroK8s](https://microk8s.io/)
+* [Weave Firekube](https://www.weave.works/oss/firekube/)
+* [Rancher K3s](https://k3s.io/)
+
+
+## Kubernetes Plugin Component Implementations
+
+Container Runtime Interface (CRI) Compatible Providers
+* [containerd](https://containerd.io/)
+* [CRI-O](https://cri-o.io/)
+
+Container Network Interface (CNI) [Compatible Providers](https://kubernetes.io/docs/concepts/cluster-administration/networking/)
+* [Calico](https://www.tigera.io/project-calico/) (L2, L3, BGP-capable)
+* [Cilium](https://github.com/cilium/cilium) (L3, L4, L7)
+* [Flannel](https://github.com/flannel-io/flannel) (L3)
+* [Kube-Router](https://github.com/cloudnativelabs/kube-router) (L3, BGP-capable)
+* [WeaveWorks Weave Net](https://www.weave.works/oss/net/)
+* [Nokia DANM](https://github.com/nokia/danm)
+
+
+DNS
+* [CoreDNS](https://coredns.io/)
