@@ -30,3 +30,5 @@
   * [Chai.js](https://www.chaijs.com/)
 * Seminars
   * [Componentizing End-to-End Tests - Nicholas Boll - JSConf US 2019](https://youtu.be/Pv2YHXQOEJY?list=PL37ZVnwpeshEGvbeADo0HKaaTCsC7fk1x)
+* Comparisons
+  * [An Overview Of JavaScript testing In 2022](https://medium.com/welldone-software/an-overview-of-javascript-testing-7ce7298b9870)

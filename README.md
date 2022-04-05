@@ -1,3 +1,9 @@
+---
+layout: default
+title: Overview
+description: an overview of the journey
+---
+
 # Learning Path Overview
 
 ## Goals
