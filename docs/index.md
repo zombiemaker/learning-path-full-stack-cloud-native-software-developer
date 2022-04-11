@@ -104,7 +104,7 @@ As you can see, you can get **A LOT OF MILEAGE** from learning to develop applic
 - [Develop Software In JavaScript / ECMAScript](develop-software-in-javascript-ecmascript.md)
 - [Develop Software In TypeScript](develop-software-in-typescript.md)
 - [Develop Software To Run In Specific Execution Environments](develop-software-to-run-in-specific-execution-environments.md)
-- [Develop Software To Run On Specific Compute Platforms](develop-software-to-run-in-specific-compute-platforms.md)
+- [Develop Software To Run On Specific Compute Platforms](develop-software-to-run-on-specific-compute-platforms.md)
 - [Develop Software To Run Anywhere Using WebAssembly](develop-software-to-run-anywhere-using-webassembly.md)
 - [Test JavaScript Software](test-javascript-software.md)
 - [Automate Testing Of Software](automate-testing-of-software.md)
