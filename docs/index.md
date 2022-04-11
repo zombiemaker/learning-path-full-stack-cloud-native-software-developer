@@ -152,7 +152,7 @@ As you can see, you can get **A LOT OF MILEAGE** from learning to develop applic
 - [Develop Linked Data Information Resource Interfaces](develop-linked-data-information-resource-interfaces.md)
 - [Develop Semantically Queryable Interfaces](develop-semantically-queryable-interfaces.md)
 - [Develop Application System Using Distributed Software Architecture](develop-application-system-using-distributed-software-architecture.md)
-- [Develop Containerized Application Systems](develop-containerized-application-systems.md)
+- [Develop Application Systems To Run On Container Plaforms](develop-application-systems-to-run-on-container-platforms.md)
 - [Develop Software Conforming To Generally Accepted Standards](develop-software-conforming-to-generally-accepted-standards.md)
 
 ### Software Development Community
