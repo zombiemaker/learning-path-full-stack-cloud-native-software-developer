@@ -34,7 +34,7 @@
 ## Resources
 
 * [Node.js](https://nodejs.org/)
-  * [Node.js 14 API Documentation](https://nodejs.org/dist/latest-v14.x/docs/api/)
+  * [Node.js 14 API Documentation](https://nodejs.org/dist/latest-v14.x/api/)
 * [Node.js YouTube Channel](https://www.youtube.com/channel/UCQPYJluYC_sn_Qz_XE-YbTQ)
   * [How People Are Using Node.js](https://www.youtube.com/playlist?list=PLfMzBWSH11xYieEIRBxmG4NGJKsv8MLMb)
   * [Node + JS Interactive 2019](https://www.youtube.com/playlist?list=PLfMzBWSH11xZPfWcC0DqFqKo_reMP58mw)
@@ -107,7 +107,7 @@ Authentication Modules
 * [Passport](http://www.passportjs.org/)
 
 Encryption
-* [CertBot](https://certbot.eff.org/) + [Webroot](https://certbot.eff.org/docs/using.html#webroot)
+* [CertBot](https://certbot.eff.org/) + [Webroot](https://certbot.eff.org/using.html#webroot)
 
 ## Tools
 

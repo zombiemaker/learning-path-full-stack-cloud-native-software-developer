@@ -9,7 +9,7 @@
 
 ## Sub-Topics
 
-- [Authenticate Using Web Authentication (WebAuthn)](docs/authenticate-using-web-authentication.md)
-- [Authenticate & Authorize With OAuth](docs/authenticate-and-authorize-with-oauth.md)
-- [Authenticate & Authorize With OpenID Connect (OID)](docs/authenticate-and-authorize-with-openid-connect.md)
-- [Authenticate & Authorize With SAML](docs/authenticate-and-authorize-with-saml.md)
+- [Authenticate Using Web Authentication (WebAuthn)](authenticate-using-web-authentication.md)
+- [Authenticate & Authorize With OAuth](authenticate-and-authorize-with-oauth.md)
+- [Authenticate & Authorize With OpenID Connect (OID)](authenticate-and-authorize-with-openid-connect.md)
+- [Authenticate & Authorize With SAML](authenticate-and-authorize-with-saml.md)

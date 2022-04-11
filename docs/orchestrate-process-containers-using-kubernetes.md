@@ -51,7 +51,7 @@ Container Runtime Interface (CRI) Compatible Providers
 * [containerd](https://containerd.io/)
 * [CRI-O](https://cri-o.io/)
 
-Container Network Interface (CNI) [Compatible Providers](https://kubernetes.io/docs/concepts/cluster-administration/networking/)
+Container Network Interface (CNI) [Compatible Providers](https://kubernetes.io/concepts/cluster-administration/networking/)
 * [Calico](https://www.tigera.io/project-calico/) (L2, L3, BGP-capable)
 * [Cilium](https://github.com/cilium/cilium) (L3, L4, L7)
 * [Flannel](https://github.com/flannel-io/flannel) (L3)

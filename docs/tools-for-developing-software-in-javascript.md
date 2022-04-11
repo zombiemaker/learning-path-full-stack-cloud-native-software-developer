@@ -26,9 +26,9 @@
 
 * Web Browser Debugging
 ** [Google Chrome Developer Tools](https://developers.google.com/web/tools/chrome-devtools/)
-** [Firefox JavaScript Debugger](https://developer.mozilla.org/en-US/docs/Tools/Debugger)
+** [Firefox JavaScript Debugger](https://developer.mozilla.org/en-US/Tools/Debugger)
 * Node.js Debugging
-  * [Node Inspect](https://nodejs.org/en/docs/guides/debugging-getting-started/)
+  * [Node Inspect](https://nodejs.org/en/guides/debugging-getting-started/)
 
 ## Task Runner
 

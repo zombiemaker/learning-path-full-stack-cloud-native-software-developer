@@ -17,7 +17,7 @@
   * [Mastering JavaScript Functional Programming - Second Edition (Federico Kereki)](https://learning.oreilly.com/library/view/mastering-javascript-functional/9781839213069/)
 * JavaScript module systems
   * [ECMAScript Modules In ES6+](https://www.ecma-international.org/ecma-262/#sec-modules)
-  * [CommonJS in Node.js](https://requirejs.org/docs/commonjs.html)
+  * [CommonJS in Node.js](https://requirejs.org/commonjs.html)
   * [Asynchronous Module Definition (AMD)](https://github.com/amdjs/amdjs-api/blob/master/AMD.md)
   * [Universal Module Definition (UMD)](https://github.com/umdjs/umd)
 * JavaScript package manager systems
@@ -41,7 +41,7 @@
   * [State Of JavaScript In 2017](https://2017.stateofjs.com/)
 * JavaScript Runtime Execution Engines / Virtual Machines
   * [Google JavaScript V8 Engine](https://v8.dev/)
-  * [Mozilla SpiderMonkey Engine](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey)
+  * [Mozilla SpiderMonkey Engine](https://developer.mozilla.org/en-US/Mozilla/Projects/SpiderMonkey)
   * [Microsoft Chakra Engine](https://github.com/microsoft/ChakraCore )
   * [Apple JavaScriptCore](https://developer.apple.com/documentation/javascriptcore)
   * [JerryScript Engine](https://jerryscript.net/)

@@ -11,8 +11,8 @@
 
 * [WebAssembly Getting Started Developer's Guide](https://webassembly.org/getting-started/developers-guide/)
 * [Emscripten](https://emscripten.org/)
-  * [Emscripten Embind Binder](https://emscripten.org/docs/porting/connecting_cpp_and_javascript/embind.html)
-  * [Emscripten WebIDL Binder](https://emscripten.org/docs/porting/connecting_cpp_and_javascript/WebIDL-Binder.html)
+  * [Emscripten Embind Binder](https://emscripten.org/porting/connecting_cpp_and_javascript/embind.html)
+  * [Emscripten WebIDL Binder](https://emscripten.org/porting/connecting_cpp_and_javascript/WebIDL-Binder.html)
 * [Emscripten SDK](https://github.com/emscripten-core/emsdk)
 * [Node.js 15.2 Documentation N-API](https://nodejs.org/api/n-api.html)
 * [A WebAssembly Field Guide Easily Worth Like 70 Bottle Caps | Flaki | JSConf Korea 2019](https://youtu.be/pDUhX4iY4aY?list=PL37ZVnwpeshGanWnYhTdoFLM2IDF28MaQ)
