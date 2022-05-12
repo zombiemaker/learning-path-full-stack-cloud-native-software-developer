@@ -2,7 +2,7 @@
 
 ## Basics
 
-* [The Complete JavaScript Unit Testing Guide (O'Reilly Video)
+* [Develop Software Using Test Driven Development](develop-software-using-test-driven-development.md)
 * [TDCD: Test Driven Component Development - Tim Doherty - JSConf US 2019](https://youtu.be/SDoq37lXHEw?list=PL37ZVnwpeshEGvbeADo0HKaaTCsC7fk1x)
 
 ## Resources
